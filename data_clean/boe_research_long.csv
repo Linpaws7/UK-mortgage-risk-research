@@ -1,0 +1,1445 @@
+sheet_name,row_number,series_label,period,value,variable
+Summary 1,16,Gross advances £ millions,2007-Q1,86432.163,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2007-Q2,96694.881,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2007-Q3,101979.98,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2007-Q4,86608.823,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2008-Q1,73365.331,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2008-Q2,71629.616,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2008-Q3,60583.695,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2008-Q4,44823.241,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2009-Q1,32588.306,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2009-Q2,33799.533,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2009-Q3,40330.642,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2009-Q4,41246.305,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2010-Q1,32050.568,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2010-Q2,36472.24,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2010-Q3,40827.545,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2010-Q4,36814.947,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2011-Q1,32984.725,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2011-Q2,36554.241,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2011-Q3,43568.227,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2011-Q4,40107.073,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2012-Q1,36442.684,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2012-Q2,36926.808,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2012-Q3,39595.182,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2012-Q4,39397.195,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2013-Q1,34044.484,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2013-Q2,41673.78,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2013-Q3,49570.122,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2013-Q4,51491.136,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2014-Q1,47097.301,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2014-Q2,51518.104,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2014-Q3,55910.718,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2014-Q4,51371.767,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2015-Q1,45593.342,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2015-Q2,52564.001,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2015-Q3,62095.996,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2015-Q4,63090.045,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2016-Q1,64015.298,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2016-Q2,58037.382,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2016-Q3,64447.772,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2016-Q4,62772.619,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2017-Q1,60435.915,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2017-Q2,62586.376,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2017-Q3,70719.892,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2017-Q4,68963.54,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2018-Q1,62436.475,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2018-Q2,66729.277,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2018-Q3,73454.664,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2018-Q4,72875.539,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2019-Q1,63368.348,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2019-Q2,66088.26,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2019-Q3,73303.859,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2019-Q4,73466.502,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2020-Q1,65818.022,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2020-Q2,44159.88,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2020-Q3,62527.45,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2020-Q4,76601.634,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2021-Q1,83175.142,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2021-Q2,89117.086,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2021-Q3,73437.692,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2021-Q4,70200.639,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2022-Q1,76942.33,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2022-Q2,77985.253,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2022-Q3,85944.428,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2022-Q4,81619.405,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2023-Q1,58587.24,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2023-Q2,52134.03,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2023-Q3,61404.034,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2023-Q4,52943.596,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2024-Q1,51589.645,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2024-Q2,60204.199,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2024-Q3,65532.408,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2024-Q4,68774.152,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2025-Q1,77560.808,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2025-Q2,58760.698,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2025-Q3,80438.426,gross_advances_gbp_m
+Summary 1,16,Gross advances £ millions,2025-Q4,79388.852,gross_advances_gbp_m
+Summary 1,17,Net advances £ millions,2007-Q1,33434.097,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2007-Q2,37319.103,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2007-Q3,39641.002,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2007-Q4,29671.474,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2008-Q1,24073.429,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2008-Q2,21746.638,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2008-Q3,13813.992,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2008-Q4,8624.704,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2009-Q1,1878.281,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2009-Q2,5545.526,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2009-Q3,6492.112,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2009-Q4,7924.587,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2010-Q1,3728.677,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2010-Q2,5894.128,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2010-Q3,8308.94,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2010-Q4,1216.601,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2011-Q1,1694.603,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2011-Q2,7888.658,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2011-Q3,6949.765,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2011-Q4,4103.868,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2012-Q1,2661.999,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2012-Q2,4662.963,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2012-Q3,5602.102,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2012-Q4,4207.831,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2013-Q1,1314.83,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2013-Q2,5117.333,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2013-Q3,7205.85,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2013-Q4,8974.651,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2014-Q1,7035.237,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2014-Q2,8932.818,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2014-Q3,11050.652,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2014-Q4,8095.694,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2015-Q1,6288.02,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2015-Q2,9957.367,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2015-Q3,13676.381,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2015-Q4,14213.717,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2016-Q1,13626.793,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2016-Q2,11871.917,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2016-Q3,13346.012,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2016-Q4,11527.921,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2017-Q1,9953.126,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2017-Q2,11870.502,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2017-Q3,16228.277,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2017-Q4,11906.853,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2018-Q1,8929.829,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2018-Q2,13388.532,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2018-Q3,13228.537,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2018-Q4,13639.291,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2019-Q1,9961.908,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2019-Q2,13754.918,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2019-Q3,16506.387,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2019-Q4,14903.471,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2020-Q1,10729.596,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2020-Q2,2757.373,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2020-Q3,13016.201,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2020-Q4,20018.773,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2021-Q1,21586.045,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2021-Q2,27451.946,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2021-Q3,16553.732,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2021-Q4,12178.59,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2022-Q1,17929.698,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2022-Q2,18845.363,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2022-Q3,21422.38,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2022-Q4,12924.285,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2023-Q1,-173.581,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2023-Q2,-402.093,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2023-Q3,2210.38,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2023-Q4,423.778,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2024-Q1,-1868.231,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2024-Q2,6694.175,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2024-Q3,10120.8,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2024-Q4,11113.458,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2025-Q1,19620.958,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2025-Q2,6650.946,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2025-Q3,16232.666,net_advances_gbp_m
+Summary 1,17,Net advances £ millions,2025-Q4,15621.979,net_advances_gbp_m
+Summary 1,18,New commitments £ millions,2007-Q1,92314.725,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2007-Q2,107704.912,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2007-Q3,101262.507,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2007-Q4,75797.33,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2008-Q1,74749.157,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2008-Q2,66851.909,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2008-Q3,49768.852,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2008-Q4,37474.23,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2009-Q1,28746.395,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2009-Q2,38811.364,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2009-Q3,38127.371,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2009-Q4,35798.264,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2010-Q1,33751.396,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2010-Q2,40601.073,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2010-Q3,38075.236,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2010-Q4,34600.256,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2011-Q1,34884.278,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2011-Q2,39576.837,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2011-Q3,41833.13,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2011-Q4,37045.063,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2012-Q1,37050.701,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2012-Q2,39810.945,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2012-Q3,35934.485,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2012-Q4,36885.163,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2013-Q1,35525.352,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2013-Q2,48141.055,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2013-Q3,50520.37,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2013-Q4,50356.32,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2014-Q1,48854.73,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2014-Q2,53482.17,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2014-Q3,53683.317,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2014-Q4,46236.67,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2015-Q1,47209.401,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2015-Q2,59564.667,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2015-Q3,64120.228,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2015-Q4,59463.693,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2016-Q1,60572.531,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2016-Q2,68108.783,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2016-Q3,61026.31,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2016-Q4,61704.766,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2017-Q1,61509.744,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2017-Q2,69094.828,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2017-Q3,69182.564,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2017-Q4,64875.187,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2018-Q1,61002.641,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2018-Q2,73180.942,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2018-Q3,72960.111,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2018-Q4,67876.238,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2019-Q1,63747.993,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2019-Q2,73363.516,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2019-Q3,73813.961,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2019-Q4,70616.924,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2020-Q1,67336.593,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2020-Q2,34420.936,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2020-Q3,78867.025,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2020-Q4,87734.811,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2021-Q1,77363.966,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2021-Q2,86068.531,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2021-Q3,78919.105,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2021-Q4,77297.251,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2022-Q1,82488.201,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2022-Q2,83979.379,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2022-Q3,87794.85,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2022-Q4,58343.441,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2023-Q1,45817.792,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2023-Q2,59475.872,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2023-Q3,49202.546,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2023-Q4,45975.766,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2024-Q1,60159.83,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2024-Q2,66939.102,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2024-Q3,66116.913,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2024-Q4,69387.677,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2025-Q1,68311.455,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2025-Q2,78156.273,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2025-Q3,79429.755,new_commitments_gbp_m
+Summary 1,18,New commitments £ millions,2025-Q4,69941.098,new_commitments_gbp_m
+Summary 1,22,Per cent of business at fixed rates Per cent,2007-Q1,64.794,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2007-Q2,67.45,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2007-Q3,67.114,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2007-Q4,57.041,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2008-Q1,45.876,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2008-Q2,56.372,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2008-Q3,52.684,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2008-Q4,43.729,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2009-Q1,47.487,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2009-Q2,64.555,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2009-Q3,66.633,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2009-Q4,49.667,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2010-Q1,37.331,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2010-Q2,39.101,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2010-Q3,43.496,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2010-Q4,45.928,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2011-Q1,51.218,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2011-Q2,56.023,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2011-Q3,51.707,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2011-Q4,53.534,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2012-Q1,55.082,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2012-Q2,56.389,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2012-Q3,55.984,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2012-Q4,63.546,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2013-Q1,70.686,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2013-Q2,75.257,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2013-Q3,77.314,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2013-Q4,80.273,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2014-Q1,81.011,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2014-Q2,81.945,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2014-Q3,82.571,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2014-Q4,82.24,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2015-Q1,77.635,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2015-Q2,78.926,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2015-Q3,80.659,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2015-Q4,84.092,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2016-Q1,81.429,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2016-Q2,82.273,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2016-Q3,82.3,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2016-Q4,81.292,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2017-Q1,84.788,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2017-Q2,88.136,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2017-Q3,89.518,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2017-Q4,90.416,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2018-Q1,90.568,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2018-Q2,91.589,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2018-Q3,90.563,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2018-Q4,91.892,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2019-Q1,91.862,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2019-Q2,92.186,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2019-Q3,91.797,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2019-Q4,92.435,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2020-Q1,91.903,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2020-Q2,90.25,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2020-Q3,91.195,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2020-Q4,92.433,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2021-Q1,92.519,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2021-Q2,93.536,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2021-Q3,94.127,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2021-Q4,94.398,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2022-Q1,94.335,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2022-Q2,95.415,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2022-Q3,95.455,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2022-Q4,94.525,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2023-Q1,83.318,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2023-Q2,84.619,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2023-Q3,90.406,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2023-Q4,86.307,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2024-Q1,87.901,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2024-Q2,93.395,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2024-Q3,93.391,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2024-Q4,94.29,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2025-Q1,94.06,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2025-Q2,92.675,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2025-Q3,92.94,fixed_rate_share_pct
+Summary 1,22,Per cent of business at fixed rates Per cent,2025-Q4,93.241,fixed_rate_share_pct
+Summary 1,27,All loans Per cent,2007-Q1,5.533,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2007-Q2,5.711,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2007-Q3,5.93,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2007-Q4,6.066,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2008-Q1,5.895,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2008-Q2,5.828,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2008-Q3,6.113,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2008-Q4,5.08,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2009-Q1,4.051,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2009-Q2,4.033,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2009-Q3,4.172,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2009-Q4,3.981,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2010-Q1,3.843,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2010-Q2,3.794,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2010-Q3,3.787,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2010-Q4,3.65,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2011-Q1,3.648,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2011-Q2,3.808,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2011-Q3,3.591,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2011-Q4,3.485,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2012-Q1,3.498,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2012-Q2,3.776,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2012-Q3,3.886,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2012-Q4,3.806,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2013-Q1,3.648,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2013-Q2,3.468,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2013-Q3,3.322,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2013-Q4,3.246,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2014-Q1,3.244,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2014-Q2,3.258,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2014-Q3,3.315,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2014-Q4,3.257,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2015-Q1,2.991,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2015-Q2,2.827,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2015-Q3,2.733,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2015-Q4,2.689,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2016-Q1,2.635,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2016-Q2,2.554,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2016-Q3,2.466,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2016-Q4,2.338,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2017-Q1,2.3,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2017-Q2,2.276,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2017-Q3,2.202,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2017-Q4,2.187,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2018-Q1,2.199,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2018-Q2,2.271,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2018-Q3,2.292,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2018-Q4,2.286,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2019-Q1,2.313,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2019-Q2,2.285,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2019-Q3,2.245,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2019-Q4,2.159,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2020-Q1,2.07,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2020-Q2,1.949,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2020-Q3,1.933,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2020-Q4,2.057,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2021-Q1,2.17,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2021-Q2,2.198,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2021-Q3,2.146,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2021-Q4,1.924,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2022-Q1,1.901,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2022-Q2,2.176,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2022-Q3,2.721,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2022-Q4,3.447,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2023-Q1,4.319,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2023-Q2,4.683,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2023-Q3,4.86,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2023-Q4,5.341,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2024-Q1,5.05,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2024-Q2,4.87,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2024-Q3,4.909,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2024-Q4,4.685,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2025-Q1,4.646,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2025-Q2,4.635,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2025-Q3,4.469,avg_interest_rate_all_loans_pct
+Summary 1,27,All loans Per cent,2025-Q4,4.379,avg_interest_rate_all_loans_pct
+Summary 1,31,House purchase Per cent,2007-Q1,50.8,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2007-Q2,54.34,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2007-Q3,55.21,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2007-Q4,53.59,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2008-Q1,42.77,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2008-Q2,44.35,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2008-Q3,37.56,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2008-Q4,38.19,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2009-Q1,36.84,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2009-Q2,50.67,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2009-Q3,57.35,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2009-Q4,61.99,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2010-Q1,57.61,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2010-Q2,61.18,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2010-Q3,63.63,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2010-Q4,60.63,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2011-Q1,53.89,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2011-Q2,59.13,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2011-Q3,60.5,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2011-Q4,61.26,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2012-Q1,59.38,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2012-Q2,62.45,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2012-Q3,66.3,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2012-Q4,66.11,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2013-Q1,63.0,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2013-Q2,64.73,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2013-Q3,67.38,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2013-Q4,68.07,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2014-Q1,66.17,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2014-Q2,69.93,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2014-Q3,71.63,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2014-Q4,70.87,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2015-Q1,66.514,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2015-Q2,68.278,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2015-Q3,70.771,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2015-Q4,69.705,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2016-Q1,69.764,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2016-Q2,63.745,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2016-Q3,66.578,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2016-Q4,66.526,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2017-Q1,61.794,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2017-Q2,66.659,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2017-Q3,66.466,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2017-Q4,65.064,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2018-Q1,61.249,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2018-Q2,63.169,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2018-Q3,64.003,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2018-Q4,63.499,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2019-Q1,60.069,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2019-Q2,63.66,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2019-Q3,65.532,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2019-Q4,64.484,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2020-Q1,60.795,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2020-Q2,55.915,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2020-Q3,68.323,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2020-Q4,75.058,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2021-Q1,75.828,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2021-Q2,77.824,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2021-Q3,70.775,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2021-Q4,64.826,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2022-Q1,64.09,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2022-Q2,66.045,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2022-Q3,68.627,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2022-Q4,67.23,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2023-Q1,60.211,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2023-Q2,62.526,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2023-Q3,65.762,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2023-Q4,66.773,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2024-Q1,62.972,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2024-Q2,66.564,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2024-Q3,72.398,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2024-Q4,71.925,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2025-Q1,74.388,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2025-Q2,65.28,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2025-Q3,66.783,house_purchase_share_pct
+Summary 1,31,House purchase Per cent,2025-Q4,70.027,house_purchase_share_pct
+Summary 1,33,Buy to let Per cent,2007-Q1,10.71,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2007-Q2,11.41,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2007-Q3,11.34,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2007-Q4,12.32,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2008-Q1,12.25,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2008-Q2,11.7,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2008-Q3,7.91,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2008-Q4,7.35,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2009-Q1,5.8,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2009-Q2,6.05,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2009-Q3,5.44,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2009-Q4,5.51,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2010-Q1,6.36,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2010-Q2,6.74,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2010-Q3,6.5,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2010-Q4,7.67,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2011-Q1,8.42,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2011-Q2,8.98,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2011-Q3,8.72,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2011-Q4,9.48,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2012-Q1,10.03,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2012-Q2,10.71,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2012-Q3,10.56,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2012-Q4,11.18,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2013-Q1,12.19,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2013-Q2,12.23,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2013-Q3,12.07,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2013-Q4,13.04,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2014-Q1,14.66,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2014-Q2,13.81,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2014-Q3,14.46,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2014-Q4,15.08,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2015-Q1,17.496,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2015-Q2,16.781,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2015-Q3,16.453,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2015-Q4,16.502,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2016-Q1,22.065,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2016-Q2,13.905,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2016-Q3,13.819,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2016-Q4,14.385,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2017-Q1,14.707,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2017-Q2,13.063,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2017-Q3,13.023,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2017-Q4,12.918,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2018-Q1,14.352,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2018-Q2,13.168,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2018-Q3,12.068,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2018-Q4,12.51,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2019-Q1,13.976,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2019-Q2,13.187,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2019-Q3,12.294,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2019-Q4,12.373,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2020-Q1,13.965,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2020-Q2,14.398,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2020-Q3,12.521,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2020-Q4,11.147,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2021-Q1,11.689,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2021-Q2,11.396,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2021-Q3,11.911,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2021-Q4,11.796,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2022-Q1,13.37,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2022-Q2,13.633,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2022-Q3,12.479,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2022-Q4,11.869,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2023-Q1,9.834,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2023-Q2,8.156,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2023-Q3,7.396,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2023-Q4,7.036,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2024-Q1,8.376,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2024-Q2,9.08,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2024-Q3,7.981,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2024-Q4,8.276,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2025-Q1,8.084,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2025-Q2,9.231,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2025-Q3,8.196,buy_to_let_share_pct
+Summary 1,33,Buy to let Per cent,2025-Q4,8.411,buy_to_let_share_pct
+Summary 1,37,Remortgage Per cent,2007-Q1,41.16,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2007-Q2,38.42,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2007-Q3,37.88,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2007-Q4,39.46,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2008-Q1,49.29,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2008-Q2,48.02,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2008-Q3,54.65,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2008-Q4,53.52,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2009-Q1,52.1,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2009-Q2,39.2,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2009-Q3,33.94,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2009-Q4,29.72,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2010-Q1,33.24,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2010-Q2,30.35,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2010-Q3,28.53,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2010-Q4,31.36,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2011-Q1,38.3,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2011-Q2,33.6,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2011-Q3,32.77,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2011-Q4,32.2,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2012-Q1,33.49,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2012-Q2,30.82,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2012-Q3,27.13,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2012-Q4,27.79,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2013-Q1,29.55,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2013-Q2,28.19,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2013-Q3,26.5,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2013-Q4,26.43,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2014-Q1,27.33,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2014-Q2,24.05,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2014-Q3,23.03,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2014-Q4,23.62,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2015-Q1,26.591,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2015-Q2,25.433,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2015-Q3,23.508,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2015-Q4,24.607,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2016-Q1,24.492,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2016-Q2,29.227,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2016-Q3,27.572,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2016-Q4,27.15,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2017-Q1,31.308,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2017-Q2,27.494,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2017-Q3,28.1,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2017-Q4,29.359,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2018-Q1,32.64,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2018-Q2,30.646,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2018-Q3,30.298,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2018-Q4,31.05,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2019-Q1,33.312,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2019-Q2,29.53,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2019-Q3,28.011,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2019-Q4,29.188,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2020-Q1,32.139,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2020-Q2,37.827,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2020-Q3,24.978,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2020-Q4,18.45,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2021-Q1,18.009,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2021-Q2,16.547,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2021-Q3,22.929,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2021-Q4,28.121,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2022-Q1,28.956,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2022-Q2,27.027,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2022-Q3,24.925,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2022-Q4,27.334,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2023-Q1,34.708,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2023-Q2,32.225,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2023-Q3,29.769,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2023-Q4,28.365,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2024-Q1,31.823,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2024-Q2,28.586,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2024-Q3,22.797,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2024-Q4,23.543,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2025-Q1,21.302,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2025-Q2,28.992,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2025-Q3,28.556,remortgage_share_pct
+Summary 1,37,Remortgage Per cent,2025-Q4,25.42,remortgage_share_pct
+Summary 1,41,House purchase Per cent,2007-Q1,48.96,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2007-Q2,52.37,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2007-Q3,49.84,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2007-Q4,43.54,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2008-Q1,35.25,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2008-Q2,35.07,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2008-Q3,31.76,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2008-Q4,31.92,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2009-Q1,44.08,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2009-Q2,55.0,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2009-Q3,61.86,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2009-Q4,63.17,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2010-Q1,58.79,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2010-Q2,63.12,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2010-Q3,61.23,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2010-Q4,55.32,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2011-Q1,51.57,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2011-Q2,61.37,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2011-Q3,59.72,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2011-Q4,57.79,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2012-Q1,58.17,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2012-Q2,64.57,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2012-Q3,65.49,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2012-Q4,63.52,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2013-Q1,62.54,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2013-Q2,66.12,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2013-Q3,64.9,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2013-Q4,66.35,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2014-Q1,65.22,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2014-Q2,70.37,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2014-Q3,68.29,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2014-Q4,64.4,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2015-Q1,62.667,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2015-Q2,66.701,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2015-Q3,65.001,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2015-Q4,63.375,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2016-Q1,61.071,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2016-Q2,63.905,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2016-Q3,60.578,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2016-Q4,59.391,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2017-Q1,57.548,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2017-Q2,61.261,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2017-Q3,58.982,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2017-Q4,54.395,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2018-Q1,55.611,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2018-Q2,58.536,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2018-Q3,56.573,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2018-Q4,54.884,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2019-Q1,54.899,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2019-Q2,61.127,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2019-Q3,59.988,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2019-Q4,55.801,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2020-Q1,56.544,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2020-Q2,44.528,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2020-Q3,70.174,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2020-Q4,71.8,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2021-Q1,69.534,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2021-Q2,71.906,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2021-Q3,64.713,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2021-Q4,58.79,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2022-Q1,58.263,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2022-Q2,62.355,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2022-Q3,58.604,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2022-Q4,53.503,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2023-Q1,57.217,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2023-Q2,61.047,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2023-Q3,60.968,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2023-Q4,60.842,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2024-Q1,61.686,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2024-Q2,70.263,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2024-Q3,69.788,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2024-Q4,66.141,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2025-Q1,65.895,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2025-Q2,63.817,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2025-Q3,65.467,house_purchase_share_pct
+Summary 1,41,House purchase Per cent,2025-Q4,62.771,house_purchase_share_pct
+Summary 1,42,Remortgage Per cent,2007-Q1,41.81,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2007-Q2,38.12,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2007-Q3,41.27,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2007-Q4,46.16,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2008-Q1,53.98,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2008-Q2,56.44,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2008-Q3,57.9,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2008-Q4,57.11,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2009-Q1,41.56,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2009-Q2,34.93,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2009-Q3,30.49,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2009-Q4,26.95,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2010-Q1,32.15,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2010-Q2,28.52,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2010-Q3,30.74,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2010-Q4,35.95,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2011-Q1,40.71,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2011-Q2,31.34,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2011-Q3,32.36,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2011-Q4,34.49,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2012-Q1,33.99,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2012-Q2,28.86,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2012-Q3,29.17,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2012-Q4,30.8,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2013-Q1,31.0,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2013-Q2,28.06,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2013-Q3,29.97,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2013-Q4,28.71,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2014-Q1,29.3,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2014-Q2,24.73,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2014-Q3,27.02,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2014-Q4,30.69,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2015-Q1,31.301,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2015-Q2,28.931,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2015-Q3,30.171,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2015-Q4,31.88,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2016-Q1,33.331,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2016-Q2,30.5,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2016-Q3,34.23,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2016-Q4,34.92,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2017-Q1,36.163,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2017-Q2,33.164,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2017-Q3,36.465,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2017-Q4,40.281,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2018-Q1,38.447,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2018-Q2,36.726,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2018-Q3,38.365,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2018-Q4,39.903,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2019-Q1,38.935,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2019-Q2,33.365,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2019-Q3,34.97,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2019-Q4,38.665,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2020-Q1,37.634,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2020-Q2,48.824,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2020-Q3,24.982,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2020-Q4,23.591,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2021-Q1,25.182,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2021-Q2,23.155,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2021-Q3,30.453,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2021-Q4,35.35,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2022-Q1,35.77,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2022-Q2,31.901,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2022-Q3,35.864,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2022-Q4,41.214,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2023-Q1,37.295,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2023-Q2,34.649,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2023-Q3,34.629,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2023-Q4,34.593,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2024-Q1,34.331,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2024-Q2,25.571,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2024-Q3,25.682,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2024-Q4,29.519,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2025-Q1,29.982,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2025-Q2,32.277,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2025-Q3,30.329,remortgage_share_pct
+Summary 1,42,Remortgage Per cent,2025-Q4,31.928,remortgage_share_pct
+Summary 2,18,< = 75% Per cent,2007-Q1,48.622,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2007-Q2,47.587,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2007-Q3,48.622,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2007-Q4,49.537,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2008-Q1,54.656,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2008-Q2,55.668,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2008-Q3,64.261,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2008-Q4,65.197,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2009-Q1,73.6,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2009-Q2,74.054,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2009-Q3,73.772,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2009-Q4,72.006,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2010-Q1,73.046,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2010-Q2,70.81,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2010-Q3,69.874,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2010-Q4,70.435,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2011-Q1,74.108,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2011-Q2,69.598,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2011-Q3,69.563,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2011-Q4,67.623,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2012-Q1,68.255,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2012-Q2,67.279,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2012-Q3,68.104,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2012-Q4,66.264,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2013-Q1,67.018,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2013-Q2,65.215,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2013-Q3,65.14,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2013-Q4,64.628,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2014-Q1,64.827,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2014-Q2,64.551,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2014-Q3,64.161,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2014-Q4,64.637,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2015-Q1,67.487,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2015-Q2,65.783,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2015-Q3,65.292,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2015-Q4,66.066,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2016-Q1,68.008,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2016-Q2,64.928,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2016-Q3,64.092,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2016-Q4,65.02,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2017-Q1,67.063,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2017-Q2,64.214,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2017-Q3,64.286,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2017-Q4,64.742,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2018-Q1,66.122,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2018-Q2,63.914,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2018-Q3,61.922,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2018-Q4,62.295,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2019-Q1,62.963,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2019-Q2,60.341,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2019-Q3,58.855,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2019-Q4,59.491,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2020-Q1,62.016,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2020-Q2,63.581,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2020-Q3,60.413,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2020-Q4,60.027,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2021-Q1,63.175,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2021-Q2,60.266,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2021-Q3,59.699,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2021-Q4,63.28,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2022-Q1,64.491,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2022-Q2,61.781,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2022-Q3,61.573,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2022-Q4,62.973,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2023-Q1,67.451,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2023-Q2,63.183,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2023-Q3,60.601,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2023-Q4,59.874,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2024-Q1,62.09,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2024-Q2,57.246,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2024-Q3,55.438,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2024-Q4,55.957,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2025-Q1,54.278,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2025-Q2,56.747,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2025-Q3,55.294,ltv_le_75_pct
+Summary 2,18,< = 75% Per cent,2025-Q4,53.078,ltv_le_75_pct
+Summary 2,19,Over 75 < = 90% Per cent,2007-Q1,37.24,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2007-Q2,37.653,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2007-Q3,37.052,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2007-Q4,37.137,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2008-Q1,34.776,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2008-Q2,33.94,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2008-Q3,29.257,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2008-Q4,28.875,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2009-Q1,22.995,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2009-Q2,23.238,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2009-Q3,24.625,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2009-Q4,26.524,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2010-Q1,25.361,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2010-Q2,27.09,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2010-Q3,27.798,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2010-Q4,27.388,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2011-Q1,24.178,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2011-Q2,28.55,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2011-Q3,28.729,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2011-Q4,30.537,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2012-Q1,29.435,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2012-Q2,30.323,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2012-Q3,29.578,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2012-Q4,31.651,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2013-Q1,30.877,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2013-Q2,32.244,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2013-Q3,32.703,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2013-Q4,33.243,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2014-Q1,31.637,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2014-Q2,30.862,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2014-Q3,31.47,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2014-Q4,31.565,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2015-Q1,28.991,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2015-Q2,30.382,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2015-Q3,31.226,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2015-Q4,30.509,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2016-Q1,29.048,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2016-Q2,30.88,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2016-Q3,31.108,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2016-Q4,30.563,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2017-Q1,28.947,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2017-Q2,31.061,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2017-Q3,31.423,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2017-Q4,31.451,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2018-Q1,30.569,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2018-Q2,32.285,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2018-Q3,33.856,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2018-Q4,33.397,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2019-Q1,32.529,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2019-Q2,34.159,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2019-Q3,35.223,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2019-Q4,34.792,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2020-Q1,32.755,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2020-Q2,31.569,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2020-Q3,36.072,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2020-Q4,38.755,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2021-Q1,35.721,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2021-Q2,37.665,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2021-Q3,36.141,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2021-Q4,32.543,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2022-Q1,31.563,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2022-Q2,33.766,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2022-Q3,33.413,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2022-Q4,31.964,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2023-Q1,28.555,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2023-Q2,32.314,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2023-Q3,34.374,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2023-Q4,34.604,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2024-Q1,32.737,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2024-Q2,36.744,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2024-Q3,37.991,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2024-Q4,37.758,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2025-Q1,39.057,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2025-Q2,36.276,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2025-Q3,37.284,ltv_75_90_pct
+Summary 2,19,Over 75 < = 90% Per cent,2025-Q4,38.576,ltv_75_90_pct
+Summary 2,20,Over 90 < = 95% Per cent,2007-Q1,8.518,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2007-Q2,9.29,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2007-Q3,8.269,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2007-Q4,7.781,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2008-Q1,6.395,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2008-Q2,7.284,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2008-Q3,5.087,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2008-Q4,4.581,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2009-Q1,2.512,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2009-Q2,1.907,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2009-Q3,1.094,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2009-Q4,0.911,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2010-Q1,1.007,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2010-Q2,1.614,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2010-Q3,1.759,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2010-Q4,1.578,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2011-Q1,1.248,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2011-Q2,1.483,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2011-Q3,1.356,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2011-Q4,1.452,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2012-Q1,1.945,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2012-Q2,1.76,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2012-Q3,1.873,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2012-Q4,1.712,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2013-Q1,1.627,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2013-Q2,2.092,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2013-Q3,1.734,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2013-Q4,1.725,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2014-Q1,3.078,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2014-Q2,4.162,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2014-Q3,4.027,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2014-Q4,3.466,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2015-Q1,3.111,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2015-Q2,3.534,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2015-Q3,3.241,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2015-Q4,3.181,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2016-Q1,2.674,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2016-Q2,3.97,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2016-Q3,4.509,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2016-Q4,4.025,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2017-Q1,3.741,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2017-Q2,4.453,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2017-Q3,4.04,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2017-Q4,3.512,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2018-Q1,3.086,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2018-Q2,3.622,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2018-Q3,3.975,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2018-Q4,4.105,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2019-Q1,4.321,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2019-Q2,5.221,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2019-Q3,5.668,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2019-Q4,5.451,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2020-Q1,4.948,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2020-Q2,4.566,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2020-Q3,3.205,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2020-Q4,1.058,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2021-Q1,0.957,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2021-Q2,1.817,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2021-Q3,3.859,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2021-Q4,3.942,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2022-Q1,3.76,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2022-Q2,4.258,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2022-Q3,4.772,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2022-Q4,4.815,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2023-Q1,3.721,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2023-Q2,4.239,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2023-Q3,4.725,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2023-Q4,5.187,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2024-Q1,4.872,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2024-Q2,5.684,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2024-Q3,6.263,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2024-Q4,6.068,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2025-Q1,6.43,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2025-Q2,6.648,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2025-Q3,7.053,ltv_90_95_pct
+Summary 2,20,Over 90 < = 95% Per cent,2025-Q4,7.834,ltv_90_95_pct
+Summary 2,21,Over 95% Per cent,2007-Q1,5.619,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2007-Q2,5.471,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2007-Q3,6.057,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2007-Q4,5.545,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2008-Q1,4.173,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2008-Q2,3.109,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2008-Q3,1.395,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2008-Q4,1.347,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2009-Q1,0.893,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2009-Q2,0.801,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2009-Q3,0.509,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2009-Q4,0.559,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2010-Q1,0.586,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2010-Q2,0.486,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2010-Q3,0.569,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2010-Q4,0.599,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2011-Q1,0.467,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2011-Q2,0.369,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2011-Q3,0.352,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2011-Q4,0.388,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2012-Q1,0.365,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2012-Q2,0.638,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2012-Q3,0.444,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2012-Q4,0.372,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2013-Q1,0.478,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2013-Q2,0.449,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2013-Q3,0.424,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2013-Q4,0.404,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2014-Q1,0.458,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2014-Q2,0.426,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2014-Q3,0.342,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2014-Q4,0.332,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2015-Q1,0.411,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2015-Q2,0.302,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2015-Q3,0.241,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2015-Q4,0.244,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2016-Q1,0.27,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2016-Q2,0.221,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2016-Q3,0.291,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2016-Q4,0.392,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2017-Q1,0.249,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2017-Q2,0.272,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2017-Q3,0.25,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2017-Q4,0.295,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2018-Q1,0.224,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2018-Q2,0.178,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2018-Q3,0.246,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2018-Q4,0.203,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2019-Q1,0.187,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2019-Q2,0.279,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2019-Q3,0.253,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2019-Q4,0.267,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2020-Q1,0.281,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2020-Q2,0.284,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2020-Q3,0.31,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2020-Q4,0.16,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2021-Q1,0.147,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2021-Q2,0.253,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2021-Q3,0.301,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2021-Q4,0.235,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2022-Q1,0.186,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2022-Q2,0.195,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2022-Q3,0.242,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2022-Q4,0.248,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2023-Q1,0.273,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2023-Q2,0.264,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2023-Q3,0.3,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2023-Q4,0.335,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2024-Q1,0.302,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2024-Q2,0.326,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2024-Q3,0.308,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2024-Q4,0.217,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2025-Q1,0.235,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2025-Q2,0.328,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2025-Q3,0.369,ltv_gt_95_pct
+Summary 2,21,Over 95% Per cent,2025-Q4,0.512,ltv_gt_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2007-Q1,5.311,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2007-Q2,5.732,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2007-Q3,4.958,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2007-Q4,4.888,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2008-Q1,4.172,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2008-Q2,4.966,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2008-Q3,3.314,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2008-Q4,2.817,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2009-Q1,1.386,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2009-Q2,1.054,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2009-Q3,0.677,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2009-Q4,0.551,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2010-Q1,0.573,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2010-Q2,0.917,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2010-Q3,1.031,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2010-Q4,0.906,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2011-Q1,0.706,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2011-Q2,0.771,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2011-Q3,0.717,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2011-Q4,0.81,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2012-Q1,1.137,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2012-Q2,1.02,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2012-Q3,1.112,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2012-Q4,1.029,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2013-Q1,1.017,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2013-Q2,1.315,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2013-Q3,1.052,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2013-Q4,1.19,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2014-Q1,2.272,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2014-Q2,3.05,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2014-Q3,2.886,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2014-Q4,2.345,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2015-Q1,2.081,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2015-Q2,2.367,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2015-Q3,2.31,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2015-Q4,2.322,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2016-Q1,1.887,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2016-Q2,2.894,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2016-Q3,3.303,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2016-Q4,2.971,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2017-Q1,2.789,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2017-Q2,3.412,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2017-Q3,3.047,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2017-Q4,2.6,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2018-Q1,2.299,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2018-Q2,2.692,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2018-Q3,2.949,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2018-Q4,3.078,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2019-Q1,3.264,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2019-Q2,3.955,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2019-Q3,4.325,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2019-Q4,4.147,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2020-Q1,3.804,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2020-Q2,3.532,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2020-Q3,2.573,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2020-Q4,0.843,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2021-Q1,0.732,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2021-Q2,1.527,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2021-Q3,3.101,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2021-Q4,3.188,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2022-Q1,3.066,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2022-Q2,3.492,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2022-Q3,3.95,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2022-Q4,3.795,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2023-Q1,2.854,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2023-Q2,3.121,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2023-Q3,3.455,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2023-Q4,3.706,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2024-Q1,3.413,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2024-Q2,4.089,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2024-Q3,4.564,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2024-Q4,4.447,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2025-Q1,4.693,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2025-Q2,4.7,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2025-Q3,5.195,ltv_90_95_pct
+Summary 2,24,Over 90 < = 95% Per cent,2025-Q4,5.906,ltv_90_95_pct
+Summary 2,25,Over 95% Per cent,2007-Q1,3.473,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2007-Q2,3.472,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2007-Q3,3.891,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2007-Q4,3.587,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2008-Q1,2.733,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2008-Q2,2.073,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2008-Q3,0.85,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2008-Q4,0.792,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2009-Q1,0.502,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2009-Q2,0.502,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2009-Q3,0.335,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2009-Q4,0.294,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2010-Q1,0.305,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2010-Q2,0.304,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2010-Q3,0.318,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2010-Q4,0.303,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2011-Q1,0.183,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2011-Q2,0.106,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2011-Q3,0.179,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2011-Q4,0.238,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2012-Q1,0.171,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2012-Q2,0.3,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2012-Q3,0.265,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2012-Q4,0.196,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2013-Q1,0.254,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2013-Q2,0.286,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2013-Q3,0.269,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2013-Q4,0.297,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2014-Q1,0.332,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2014-Q2,0.305,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2014-Q3,0.23,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2014-Q4,0.202,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2015-Q1,0.207,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2015-Q2,0.192,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2015-Q3,0.122,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2015-Q4,0.145,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2016-Q1,0.164,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2016-Q2,0.141,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2016-Q3,0.158,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2016-Q4,0.161,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2017-Q1,0.144,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2017-Q2,0.152,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2017-Q3,0.136,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2017-Q4,0.153,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2018-Q1,0.119,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2018-Q2,0.099,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2018-Q3,0.149,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2018-Q4,0.109,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2019-Q1,0.114,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2019-Q2,0.142,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2019-Q3,0.157,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2019-Q4,0.157,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2020-Q1,0.176,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2020-Q2,0.2,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2020-Q3,0.225,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2020-Q4,0.093,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2021-Q1,0.089,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2021-Q2,0.149,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2021-Q3,0.195,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2021-Q4,0.174,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2022-Q1,0.131,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2022-Q2,0.134,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2022-Q3,0.177,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2022-Q4,0.179,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2023-Q1,0.187,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2023-Q2,0.158,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2023-Q3,0.172,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2023-Q4,0.194,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2024-Q1,0.179,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2024-Q2,0.224,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2024-Q3,0.198,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2024-Q4,0.132,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2025-Q1,0.151,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2025-Q2,0.21,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2025-Q3,0.25,ltv_gt_95_pct
+Summary 2,25,Over 95% Per cent,2025-Q4,0.375,ltv_gt_95_pct
+Summary 2,26,All over 90% Per cent,2007-Q1,8.784,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2007-Q2,9.204,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2007-Q3,8.849,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2007-Q4,8.475,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2008-Q1,6.905,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2008-Q2,7.039,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2008-Q3,4.165,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2008-Q4,3.609,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2009-Q1,1.889,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2009-Q2,1.556,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2009-Q3,1.012,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2009-Q4,0.846,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2010-Q1,0.878,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2010-Q2,1.221,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2010-Q3,1.349,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2010-Q4,1.209,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2011-Q1,0.889,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2011-Q2,0.878,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2011-Q3,0.896,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2011-Q4,1.048,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2012-Q1,1.309,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2012-Q2,1.32,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2012-Q3,1.378,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2012-Q4,1.225,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2013-Q1,1.271,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2013-Q2,1.601,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2013-Q3,1.321,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2013-Q4,1.487,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2014-Q1,2.604,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2014-Q2,3.355,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2014-Q3,3.116,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2014-Q4,2.547,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2015-Q1,2.288,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2015-Q2,2.559,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2015-Q3,2.432,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2015-Q4,2.467,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2016-Q1,2.051,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2016-Q2,3.035,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2016-Q3,3.461,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2016-Q4,3.132,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2017-Q1,2.933,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2017-Q2,3.564,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2017-Q3,3.182,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2017-Q4,2.752,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2018-Q1,2.418,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2018-Q2,2.791,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2018-Q3,3.098,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2018-Q4,3.187,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2019-Q1,3.378,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2019-Q2,4.097,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2019-Q3,4.482,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2019-Q4,4.304,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2020-Q1,3.981,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2020-Q2,3.732,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2020-Q3,2.798,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2020-Q4,0.935,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2021-Q1,0.821,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2021-Q2,1.676,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2021-Q3,3.297,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2021-Q4,3.362,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2022-Q1,3.197,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2022-Q2,3.626,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2022-Q3,4.126,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2022-Q4,3.974,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2023-Q1,3.041,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2023-Q2,3.279,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2023-Q3,3.626,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2023-Q4,3.901,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2024-Q1,3.592,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2024-Q2,4.313,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2024-Q3,4.763,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2024-Q4,4.579,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2025-Q1,4.844,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2025-Q2,4.91,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2025-Q3,5.445,ltv_gt_90_pct
+Summary 2,26,All over 90% Per cent,2025-Q4,6.282,ltv_gt_90_pct
+Summary 2,29,Loans with impaired credit history Per cent,2007-Q1,3.589,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2007-Q2,3.417,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2007-Q3,3.581,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2007-Q4,3.228,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2008-Q1,2.399,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2008-Q2,2.156,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2008-Q3,1.585,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2008-Q4,0.932,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2009-Q1,0.728,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2009-Q2,0.423,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2009-Q3,0.33,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2009-Q4,0.328,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2010-Q1,0.354,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2010-Q2,0.392,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2010-Q3,0.369,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2010-Q4,0.32,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2011-Q1,0.327,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2011-Q2,0.355,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2011-Q3,0.37,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2011-Q4,0.355,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2012-Q1,0.289,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2012-Q2,0.272,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2012-Q3,0.252,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2012-Q4,0.29,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2013-Q1,0.258,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2013-Q2,0.211,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2013-Q3,0.199,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2013-Q4,0.199,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2014-Q1,0.196,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2014-Q2,0.188,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2014-Q3,0.198,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2014-Q4,0.221,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2015-Q1,0.194,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2015-Q2,0.198,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2015-Q3,0.189,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2015-Q4,0.256,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2016-Q1,0.237,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2016-Q2,0.261,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2016-Q3,0.252,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2016-Q4,0.234,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2017-Q1,0.228,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2017-Q2,0.27,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2017-Q3,0.271,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2017-Q4,0.32,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2018-Q1,0.293,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2018-Q2,0.591,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2018-Q3,0.609,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2018-Q4,0.62,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2019-Q1,0.609,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2019-Q2,0.552,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2019-Q3,0.579,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2019-Q4,0.638,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2020-Q1,0.607,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2020-Q2,0.503,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2020-Q3,0.431,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2020-Q4,0.372,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2021-Q1,0.374,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2021-Q2,0.417,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2021-Q3,0.414,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2021-Q4,0.447,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2022-Q1,0.43,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2022-Q2,0.459,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2022-Q3,0.454,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2022-Q4,0.46,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2023-Q1,0.381,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2023-Q2,0.493,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2023-Q3,0.507,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2023-Q4,0.519,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2024-Q1,0.549,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2024-Q2,0.609,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2024-Q3,0.737,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2024-Q4,0.744,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2025-Q1,0.696,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2025-Q2,0.985,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2025-Q3,0.759,impaired_credit_history_pct
+Summary 2,29,Loans with impaired credit history Per cent,2025-Q4,0.815,impaired_credit_history_pct
+Summary 2,36,Overall residential loans to individuals £ millions,2007-Q1,1064363.837,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2007-Q2,1108071.119,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2007-Q3,1137898.315,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2007-Q4,1159861.965,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2008-Q1,1177761.935,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2008-Q2,1188616.579,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2008-Q3,1196460.161,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2008-Q4,1200716.183,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2009-Q1,1198412.793,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2009-Q2,1200934.023,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2009-Q3,1203367.755,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2009-Q4,1207300.824,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2010-Q1,1206133.192,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2010-Q2,1208954.075,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2010-Q3,1213372.891,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2010-Q4,1213054.239,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2011-Q1,1212437.427,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2011-Q2,1214655.119,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2011-Q3,1217622.167,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2011-Q4,1218462.922,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2012-Q1,1221480.541,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2012-Q2,1223477.111,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2012-Q3,1227319.002,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2012-Q4,1228664.642,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2013-Q1,1228627.074,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2013-Q2,1230403.305,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2013-Q3,1234449.165,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2013-Q4,1238923.328,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2014-Q1,1243557.079,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2014-Q2,1249870.169,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2014-Q3,1256161.466,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2014-Q4,1260123.294,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2015-Q1,1261592.528,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2015-Q2,1271957.41,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2015-Q3,1281952.557,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2015-Q4,1291408.823,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2016-Q1,1304746.968,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2016-Q2,1316335.304,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2016-Q3,1330802.397,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2016-Q4,1337867.863,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2017-Q1,1352773.133,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2017-Q2,1348201.892,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2017-Q3,1368207.101,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2017-Q4,1379177.814,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2018-Q1,1403345.981,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2018-Q2,1407436.617,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2018-Q3,1420209.567,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2018-Q4,1443817.872,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2019-Q1,1451829.184,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2019-Q2,1465597.798,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2019-Q3,1484893.204,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2019-Q4,1496908.514,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2020-Q1,1507722.891,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2020-Q2,1514824.144,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2020-Q3,1526030.843,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2020-Q4,1541448.967,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2021-Q1,1561572.821,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2021-Q2,1587636.565,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2021-Q3,1601895.206,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2021-Q4,1613466.601,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2022-Q1,1630821.83,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2022-Q2,1648808.331,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2022-Q3,1666487.54,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2022-Q4,1675297.419,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2023-Q1,1675959.06,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2023-Q2,1673074.295,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2023-Q3,1673172.217,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2023-Q4,1671798.629,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2024-Q1,1669970.08,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2024-Q2,1676305.034,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2024-Q3,1674741.461,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2024-Q4,1683406.844,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2025-Q1,1702420.982,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2025-Q2,1707083.464,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2025-Q3,1721260.362,residential_loans_outstanding_gbp_m
+Summary 2,36,Overall residential loans to individuals £ millions,2025-Q4,1734434.628,residential_loans_outstanding_gbp_m

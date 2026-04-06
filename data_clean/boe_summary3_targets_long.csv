@@ -1,0 +1,457 @@
+sheet_name,row_number,series_label,period,value,variable
+Summary 3,33,TOTAL Per cent,2007-Q1,2.059,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2007-Q2,2.079,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2007-Q3,2.132,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2007-Q4,2.262,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2008-Q1,2.415,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2008-Q2,2.549,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2008-Q3,2.93,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2008-Q4,3.368,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2009-Q1,3.636,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2009-Q2,3.547,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2009-Q3,3.472,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2009-Q4,3.321,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2010-Q1,3.229,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2010-Q2,3.113,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2010-Q3,2.979,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2010-Q4,2.947,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2011-Q1,2.884,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2011-Q2,2.813,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2011-Q3,2.717,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2011-Q4,2.614,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2012-Q1,2.516,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2012-Q2,2.446,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2012-Q3,2.456,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2012-Q4,2.406,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2013-Q1,2.395,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2013-Q2,2.321,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2013-Q3,2.208,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2013-Q4,2.103,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2014-Q1,2.0,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2014-Q2,1.863,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2014-Q3,1.733,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2014-Q4,1.627,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2015-Q1,1.565,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2015-Q2,1.502,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2015-Q3,1.426,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2015-Q4,1.371,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2016-Q1,1.332,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2016-Q2,1.329,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2016-Q3,1.285,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2016-Q4,1.235,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2017-Q1,1.2,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2017-Q2,1.154,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2017-Q3,1.107,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2017-Q4,1.076,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2018-Q1,1.056,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2018-Q2,1.007,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2018-Q3,1.008,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2018-Q4,1.002,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2019-Q1,1.001,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2019-Q2,0.971,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2019-Q3,0.925,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2019-Q4,0.898,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2020-Q1,0.906,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2020-Q2,0.924,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2020-Q3,0.906,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2020-Q4,0.928,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2021-Q1,0.962,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2021-Q2,0.898,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2021-Q3,0.859,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2021-Q4,0.835,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2022-Q1,0.815,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2022-Q2,0.795,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2022-Q3,0.775,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2022-Q4,0.808,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2023-Q1,0.877,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2023-Q2,0.994,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2023-Q3,1.12,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2023-Q4,1.23,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2024-Q1,1.277,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2024-Q2,1.309,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2024-Q3,1.306,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2024-Q4,1.281,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2025-Q1,1.259,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2025-Q2,1.243,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2025-Q3,1.197,total_arrears_rate_pct
+Summary 3,33,TOTAL Per cent,2025-Q4,1.177,total_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2007-Q1,1.297,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2007-Q2,1.318,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2007-Q3,1.367,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2007-Q4,1.451,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2008-Q1,1.578,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2008-Q2,1.686,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2008-Q3,1.963,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2008-Q4,2.271,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2009-Q1,2.506,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2009-Q2,2.475,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2009-Q3,2.459,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2009-Q4,2.366,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2010-Q1,2.315,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2010-Q2,2.239,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2010-Q3,2.142,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2010-Q4,2.103,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2011-Q1,2.062,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2011-Q2,2.003,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2011-Q3,1.929,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2011-Q4,1.843,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2012-Q1,1.754,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2012-Q2,1.69,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2012-Q3,1.698,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2012-Q4,1.662,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2013-Q1,1.646,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2013-Q2,1.596,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2013-Q3,1.523,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2013-Q4,1.445,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2014-Q1,1.372,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2014-Q2,1.281,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2014-Q3,1.185,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2014-Q4,1.109,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2015-Q1,1.071,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2015-Q2,1.035,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2015-Q3,0.986,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2015-Q4,0.951,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2016-Q1,0.929,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2016-Q2,0.943,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2016-Q3,0.913,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2016-Q4,0.884,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2017-Q1,0.869,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2017-Q2,0.839,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2017-Q3,0.802,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2017-Q4,0.782,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2018-Q1,0.767,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2018-Q2,0.737,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2018-Q3,0.734,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2018-Q4,0.728,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2019-Q1,0.73,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2019-Q2,0.712,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2019-Q3,0.679,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2019-Q4,0.655,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2020-Q1,0.659,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2020-Q2,0.685,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2020-Q3,0.688,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2020-Q4,0.696,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2021-Q1,0.729,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2021-Q2,0.693,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2021-Q3,0.674,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2021-Q4,0.657,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2022-Q1,0.647,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2022-Q2,0.627,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2022-Q3,0.603,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2022-Q4,0.618,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2023-Q1,0.649,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2023-Q2,0.734,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2023-Q3,0.835,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2023-Q4,0.942,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2024-Q1,0.995,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2024-Q2,1.018,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2024-Q3,1.028,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2024-Q4,1.019,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2025-Q1,1.001,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2025-Q2,0.994,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2025-Q3,0.962,serious_arrears_rate_pct
+Summary 3,34,Total (exc 1.5 < 2.5% band) Per cent,2025-Q4,0.941,serious_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2007-Q1,1.719,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2007-Q2,1.727,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2007-Q3,1.768,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2007-Q4,1.861,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2008-Q1,1.918,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2008-Q2,1.984,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2008-Q3,2.179,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2008-Q4,2.425,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2009-Q1,2.606,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2009-Q2,2.581,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2009-Q3,2.513,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2009-Q4,2.407,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2010-Q1,2.353,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2010-Q2,2.295,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2010-Q3,2.239,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2010-Q4,2.264,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2011-Q1,2.237,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2011-Q2,2.209,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2011-Q3,2.152,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2011-Q4,2.086,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2012-Q1,2.022,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2012-Q2,1.979,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2012-Q3,2.013,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2012-Q4,2.085,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2013-Q1,2.133,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2013-Q2,2.085,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2013-Q3,2.003,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2013-Q4,1.914,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2014-Q1,1.867,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2014-Q2,1.769,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2014-Q3,1.697,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2014-Q4,1.631,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2015-Q1,1.577,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2015-Q2,1.572,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2015-Q3,1.494,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2015-Q4,1.471,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2016-Q1,1.507,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2016-Q2,1.589,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2016-Q3,1.576,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2016-Q4,1.569,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2017-Q1,1.513,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2017-Q2,1.462,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2017-Q3,1.422,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2017-Q4,1.4,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2018-Q1,1.375,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2018-Q2,1.367,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2018-Q3,1.378,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2018-Q4,1.366,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2019-Q1,1.357,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2019-Q2,1.344,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2019-Q3,1.29,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2019-Q4,1.27,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2020-Q1,1.286,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2020-Q2,1.281,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2020-Q3,1.255,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2020-Q4,1.274,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2021-Q1,1.273,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2021-Q2,1.225,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2021-Q3,1.184,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2021-Q4,1.156,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2022-Q1,1.145,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2022-Q2,1.137,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2022-Q3,1.108,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2022-Q4,1.146,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2023-Q1,1.189,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2023-Q2,1.265,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2023-Q3,1.383,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2023-Q4,1.469,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2024-Q1,1.491,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2024-Q2,1.498,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2024-Q3,1.477,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2024-Q4,1.459,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2025-Q1,1.447,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2025-Q2,1.427,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2025-Q3,1.377,total_arrears_rate_pct
+Summary 3,44,TOTAL Per cent,2025-Q4,1.373,total_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2007-Q1,1.13,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2007-Q2,1.138,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2007-Q3,1.173,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2007-Q4,1.24,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2008-Q1,1.291,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2008-Q2,1.346,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2008-Q3,1.493,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2008-Q4,1.673,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2009-Q1,1.837,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2009-Q2,1.84,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2009-Q3,1.813,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2009-Q4,1.747,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2010-Q1,1.72,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2010-Q2,1.683,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2010-Q3,1.647,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2010-Q4,1.659,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2011-Q1,1.643,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2011-Q2,1.619,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2011-Q3,1.576,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2011-Q4,1.517,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2012-Q1,1.46,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2012-Q2,1.419,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2012-Q3,1.443,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2012-Q4,1.496,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2013-Q1,1.522,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2013-Q2,1.492,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2013-Q3,1.438,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2013-Q4,1.37,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2014-Q1,1.337,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2014-Q2,1.267,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2014-Q3,1.215,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2014-Q4,1.166,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2015-Q1,1.132,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2015-Q2,1.143,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2015-Q3,1.079,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2015-Q4,1.068,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2016-Q1,1.097,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2016-Q2,1.183,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2016-Q3,1.187,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2016-Q4,1.191,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2017-Q1,1.158,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2017-Q2,1.124,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2017-Q3,1.09,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2017-Q4,1.072,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2018-Q1,1.05,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2018-Q2,1.063,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2018-Q3,1.07,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2018-Q4,1.059,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2019-Q1,1.051,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2019-Q2,1.045,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2019-Q3,1.007,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2019-Q4,0.987,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2020-Q1,0.993,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2020-Q2,1.008,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2020-Q3,1.004,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2020-Q4,1.014,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2021-Q1,1.022,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2021-Q2,0.997,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2021-Q3,0.968,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2021-Q4,0.943,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2022-Q1,0.937,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2022-Q2,0.927,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2022-Q3,0.895,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2022-Q4,0.911,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2023-Q1,0.931,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2023-Q2,0.988,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2023-Q3,1.083,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2023-Q4,1.162,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2024-Q1,1.192,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2024-Q2,1.202,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2024-Q3,1.194,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2024-Q4,1.181,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2025-Q1,1.171,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2025-Q2,1.156,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2025-Q3,1.118,serious_arrears_rate_pct
+Summary 3,45,Total (exc 1.5 < 2.5% band) Per cent,2025-Q4,1.11,serious_arrears_rate_pct
+Summary 3,50,New possessions in quarter Units,2007-Q1,6472.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2007-Q2,6464.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2007-Q3,6838.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2007-Q4,8135.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2008-Q1,9174.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2008-Q2,11074.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2008-Q3,13462.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2008-Q4,13236.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2009-Q1,14838.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2009-Q2,13225.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2009-Q3,13417.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2009-Q4,11483.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2010-Q1,10447.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2010-Q2,9990.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2010-Q3,9134.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2010-Q4,8246.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2011-Q1,9615.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2011-Q2,9510.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2011-Q3,9674.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2011-Q4,8924.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2012-Q1,9531.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2012-Q2,8695.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2012-Q3,8521.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2012-Q4,7792.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2013-Q1,8109.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2013-Q2,7760.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2013-Q3,7328.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2013-Q4,6118.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2014-Q1,6658.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2014-Q2,5713.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2014-Q3,5148.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2014-Q4,4134.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2015-Q1,3157.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2015-Q2,2671.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2015-Q3,2881.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2015-Q4,2418.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2016-Q1,2575.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2016-Q2,2307.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2016-Q3,2145.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2016-Q4,2138.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2017-Q1,2283.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2017-Q2,1982.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2017-Q3,2235.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2017-Q4,1953.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2018-Q1,2107.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2018-Q2,1830.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2018-Q3,1809.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2018-Q4,1847.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2019-Q1,2209.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2019-Q2,2081.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2019-Q3,2351.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2019-Q4,2185.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2020-Q1,1773.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2020-Q2,249.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2020-Q3,378.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2020-Q4,435.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2021-Q1,380.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2021-Q2,539.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2021-Q3,863.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2021-Q4,848.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2022-Q1,1147.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2022-Q2,1353.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2022-Q3,1650.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2022-Q4,1242.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2023-Q1,1475.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2023-Q2,1488.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2023-Q3,1425.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2023-Q4,1459.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2024-Q1,2098.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2024-Q2,1983.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2024-Q3,2073.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2024-Q4,2055.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2025-Q1,2315.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2025-Q2,2439.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2025-Q3,2482.0,new_possessions_units
+Summary 3,50,New possessions in quarter Units,2025-Q4,2182.0,new_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2007-Q1,12143.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2007-Q2,12581.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2007-Q3,12836.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2007-Q4,15505.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2008-Q1,17802.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2008-Q2,21360.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2008-Q3,27548.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2008-Q4,28241.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2009-Q1,29146.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2009-Q2,25052.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2009-Q3,23082.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2009-Q4,19426.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2010-Q1,18107.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2010-Q2,16921.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2010-Q3,16575.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2010-Q4,15468.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2011-Q1,16020.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2011-Q2,16262.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2011-Q3,16182.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2011-Q4,15457.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2012-Q1,15385.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2012-Q2,14953.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2012-Q3,14889.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2012-Q4,13321.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2013-Q1,12855.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2013-Q2,12018.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2013-Q3,11318.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2013-Q4,9956.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2014-Q1,10164.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2014-Q2,9730.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2014-Q3,9076.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2014-Q4,7758.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2015-Q1,6426.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2015-Q2,5249.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2015-Q3,5084.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2015-Q4,4473.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2016-Q1,4379.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2016-Q2,4239.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2016-Q3,4081.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2016-Q4,3904.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2017-Q1,3893.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2017-Q2,3746.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2017-Q3,3952.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2017-Q4,3650.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2018-Q1,3768.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2018-Q2,3413.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2018-Q3,3402.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2018-Q4,3413.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2019-Q1,3846.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2019-Q2,3930.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2019-Q3,4337.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2019-Q4,4214.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2020-Q1,3972.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2020-Q2,3169.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2020-Q3,2288.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2020-Q4,1933.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2021-Q1,1583.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2021-Q2,1587.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2021-Q3,1932.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2021-Q4,2073.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2022-Q1,2485.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2022-Q2,2866.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2022-Q3,3197.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2022-Q4,3247.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2023-Q1,3596.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2023-Q2,4818.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2023-Q3,4899.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2023-Q4,5236.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2024-Q1,6032.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2024-Q2,6483.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2024-Q3,6798.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2024-Q4,7123.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2025-Q1,7670.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2025-Q2,8681.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2025-Q3,9123.0,stock_possessions_units
+Summary 3,52,Stock of possessions at end of quarter Units,2025-Q4,9319.0,stock_possessions_units

@@ -1,0 +1,32 @@
+                               OLS Regression Results                               
+====================================================================================
+Dep. Variable:     serious_arrears_rate_pct   R-squared:                       0.928
+Model:                                  OLS   Adj. R-squared:                  0.919
+Method:                       Least Squares   F-statistic:                     150.8
+Date:                      Tue, 31 Mar 2026   Prob (F-statistic):           2.11e-29
+Time:                              20:20:02   Log-Likelihood:                 45.926
+No. Observations:                        55   AIC:                            -77.85
+Df Residuals:                            48   BIC:                            -63.80
+Df Model:                                 6                                         
+Covariance Type:                        HAC                                         
+======================================================================================================
+                                         coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------------------------------
+const                                  2.7796      0.200     13.928      0.000       2.388       3.171
+avg_interest_rate_all_loans_pct_l1     0.0771      0.031      2.475      0.013       0.016       0.138
+uk_hpi_annual_change_pct_l1            0.0029      0.005      0.533      0.594      -0.008       0.013
+fixed_rate_share_pct_l1               -0.0185      0.004     -4.576      0.000      -0.026      -0.011
+ltv_gt_90_pct_l1                      -0.0640      0.023     -2.742      0.006      -0.110      -0.018
+impaired_credit_history_pct_l1         0.1145      0.177      0.648      0.517      -0.232       0.461
+gross_advances_gbp_m_l1            -5.806e-06    2.6e-06     -2.234      0.025   -1.09e-05   -7.12e-07
+==============================================================================
+Omnibus:                        8.324   Durbin-Watson:                   0.716
+Prob(Omnibus):                  0.016   Jarque-Bera (JB):                9.303
+Skew:                          -0.587   Prob(JB):                      0.00955
+Kurtosis:                       4.638   Cond. No.                     8.54e+05
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity and autocorrelation robust (HAC) using 4 lags and without small sample correction
+[2] The condition number is large, 8.54e+05. This might indicate that there are
+strong multicollinearity or other numerical problems.

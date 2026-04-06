@@ -1,0 +1,913 @@
+sheet_name,row_number,series_label,period,value
+Summary 2,18,< = 75% Per cent,2007-Q1,48.622
+Summary 2,18,< = 75% Per cent,2007-Q2,47.587
+Summary 2,18,< = 75% Per cent,2007-Q3,48.622
+Summary 2,18,< = 75% Per cent,2007-Q4,49.537
+Summary 2,18,< = 75% Per cent,2008-Q1,54.656
+Summary 2,18,< = 75% Per cent,2008-Q2,55.668
+Summary 2,18,< = 75% Per cent,2008-Q3,64.261
+Summary 2,18,< = 75% Per cent,2008-Q4,65.197
+Summary 2,18,< = 75% Per cent,2009-Q1,73.6
+Summary 2,18,< = 75% Per cent,2009-Q2,74.054
+Summary 2,18,< = 75% Per cent,2009-Q3,73.772
+Summary 2,18,< = 75% Per cent,2009-Q4,72.006
+Summary 2,18,< = 75% Per cent,2010-Q1,73.046
+Summary 2,18,< = 75% Per cent,2010-Q2,70.81
+Summary 2,18,< = 75% Per cent,2010-Q3,69.874
+Summary 2,18,< = 75% Per cent,2010-Q4,70.435
+Summary 2,18,< = 75% Per cent,2011-Q1,74.108
+Summary 2,18,< = 75% Per cent,2011-Q2,69.598
+Summary 2,18,< = 75% Per cent,2011-Q3,69.563
+Summary 2,18,< = 75% Per cent,2011-Q4,67.623
+Summary 2,18,< = 75% Per cent,2012-Q1,68.255
+Summary 2,18,< = 75% Per cent,2012-Q2,67.279
+Summary 2,18,< = 75% Per cent,2012-Q3,68.104
+Summary 2,18,< = 75% Per cent,2012-Q4,66.264
+Summary 2,18,< = 75% Per cent,2013-Q1,67.018
+Summary 2,18,< = 75% Per cent,2013-Q2,65.215
+Summary 2,18,< = 75% Per cent,2013-Q3,65.14
+Summary 2,18,< = 75% Per cent,2013-Q4,64.628
+Summary 2,18,< = 75% Per cent,2014-Q1,64.827
+Summary 2,18,< = 75% Per cent,2014-Q2,64.551
+Summary 2,18,< = 75% Per cent,2014-Q3,64.161
+Summary 2,18,< = 75% Per cent,2014-Q4,64.637
+Summary 2,18,< = 75% Per cent,2015-Q1,67.487
+Summary 2,18,< = 75% Per cent,2015-Q2,65.783
+Summary 2,18,< = 75% Per cent,2015-Q3,65.292
+Summary 2,18,< = 75% Per cent,2015-Q4,66.066
+Summary 2,18,< = 75% Per cent,2016-Q1,68.008
+Summary 2,18,< = 75% Per cent,2016-Q2,64.928
+Summary 2,18,< = 75% Per cent,2016-Q3,64.092
+Summary 2,18,< = 75% Per cent,2016-Q4,65.02
+Summary 2,18,< = 75% Per cent,2017-Q1,67.063
+Summary 2,18,< = 75% Per cent,2017-Q2,64.214
+Summary 2,18,< = 75% Per cent,2017-Q3,64.286
+Summary 2,18,< = 75% Per cent,2017-Q4,64.742
+Summary 2,18,< = 75% Per cent,2018-Q1,66.122
+Summary 2,18,< = 75% Per cent,2018-Q2,63.914
+Summary 2,18,< = 75% Per cent,2018-Q3,61.922
+Summary 2,18,< = 75% Per cent,2018-Q4,62.295
+Summary 2,18,< = 75% Per cent,2019-Q1,62.963
+Summary 2,18,< = 75% Per cent,2019-Q2,60.341
+Summary 2,18,< = 75% Per cent,2019-Q3,58.855
+Summary 2,18,< = 75% Per cent,2019-Q4,59.491
+Summary 2,18,< = 75% Per cent,2020-Q1,62.016
+Summary 2,18,< = 75% Per cent,2020-Q2,63.581
+Summary 2,18,< = 75% Per cent,2020-Q3,60.413
+Summary 2,18,< = 75% Per cent,2020-Q4,60.027
+Summary 2,18,< = 75% Per cent,2021-Q1,63.175
+Summary 2,18,< = 75% Per cent,2021-Q2,60.266
+Summary 2,18,< = 75% Per cent,2021-Q3,59.699
+Summary 2,18,< = 75% Per cent,2021-Q4,63.28
+Summary 2,18,< = 75% Per cent,2022-Q1,64.491
+Summary 2,18,< = 75% Per cent,2022-Q2,61.781
+Summary 2,18,< = 75% Per cent,2022-Q3,61.573
+Summary 2,18,< = 75% Per cent,2022-Q4,62.973
+Summary 2,18,< = 75% Per cent,2023-Q1,67.451
+Summary 2,18,< = 75% Per cent,2023-Q2,63.183
+Summary 2,18,< = 75% Per cent,2023-Q3,60.601
+Summary 2,18,< = 75% Per cent,2023-Q4,59.874
+Summary 2,18,< = 75% Per cent,2024-Q1,62.09
+Summary 2,18,< = 75% Per cent,2024-Q2,57.246
+Summary 2,18,< = 75% Per cent,2024-Q3,55.438
+Summary 2,18,< = 75% Per cent,2024-Q4,55.957
+Summary 2,18,< = 75% Per cent,2025-Q1,54.278
+Summary 2,18,< = 75% Per cent,2025-Q2,56.747
+Summary 2,18,< = 75% Per cent,2025-Q3,55.294
+Summary 2,18,< = 75% Per cent,2025-Q4,53.078
+Summary 2,19,Over 75 < = 90% Per cent,2007-Q1,37.24
+Summary 2,19,Over 75 < = 90% Per cent,2007-Q2,37.653
+Summary 2,19,Over 75 < = 90% Per cent,2007-Q3,37.052
+Summary 2,19,Over 75 < = 90% Per cent,2007-Q4,37.137
+Summary 2,19,Over 75 < = 90% Per cent,2008-Q1,34.776
+Summary 2,19,Over 75 < = 90% Per cent,2008-Q2,33.94
+Summary 2,19,Over 75 < = 90% Per cent,2008-Q3,29.257
+Summary 2,19,Over 75 < = 90% Per cent,2008-Q4,28.875
+Summary 2,19,Over 75 < = 90% Per cent,2009-Q1,22.995
+Summary 2,19,Over 75 < = 90% Per cent,2009-Q2,23.238
+Summary 2,19,Over 75 < = 90% Per cent,2009-Q3,24.625
+Summary 2,19,Over 75 < = 90% Per cent,2009-Q4,26.524
+Summary 2,19,Over 75 < = 90% Per cent,2010-Q1,25.361
+Summary 2,19,Over 75 < = 90% Per cent,2010-Q2,27.09
+Summary 2,19,Over 75 < = 90% Per cent,2010-Q3,27.798
+Summary 2,19,Over 75 < = 90% Per cent,2010-Q4,27.388
+Summary 2,19,Over 75 < = 90% Per cent,2011-Q1,24.178
+Summary 2,19,Over 75 < = 90% Per cent,2011-Q2,28.55
+Summary 2,19,Over 75 < = 90% Per cent,2011-Q3,28.729
+Summary 2,19,Over 75 < = 90% Per cent,2011-Q4,30.537
+Summary 2,19,Over 75 < = 90% Per cent,2012-Q1,29.435
+Summary 2,19,Over 75 < = 90% Per cent,2012-Q2,30.323
+Summary 2,19,Over 75 < = 90% Per cent,2012-Q3,29.578
+Summary 2,19,Over 75 < = 90% Per cent,2012-Q4,31.651
+Summary 2,19,Over 75 < = 90% Per cent,2013-Q1,30.877
+Summary 2,19,Over 75 < = 90% Per cent,2013-Q2,32.244
+Summary 2,19,Over 75 < = 90% Per cent,2013-Q3,32.703
+Summary 2,19,Over 75 < = 90% Per cent,2013-Q4,33.243
+Summary 2,19,Over 75 < = 90% Per cent,2014-Q1,31.637
+Summary 2,19,Over 75 < = 90% Per cent,2014-Q2,30.862
+Summary 2,19,Over 75 < = 90% Per cent,2014-Q3,31.47
+Summary 2,19,Over 75 < = 90% Per cent,2014-Q4,31.565
+Summary 2,19,Over 75 < = 90% Per cent,2015-Q1,28.991
+Summary 2,19,Over 75 < = 90% Per cent,2015-Q2,30.382
+Summary 2,19,Over 75 < = 90% Per cent,2015-Q3,31.226
+Summary 2,19,Over 75 < = 90% Per cent,2015-Q4,30.509
+Summary 2,19,Over 75 < = 90% Per cent,2016-Q1,29.048
+Summary 2,19,Over 75 < = 90% Per cent,2016-Q2,30.88
+Summary 2,19,Over 75 < = 90% Per cent,2016-Q3,31.108
+Summary 2,19,Over 75 < = 90% Per cent,2016-Q4,30.563
+Summary 2,19,Over 75 < = 90% Per cent,2017-Q1,28.947
+Summary 2,19,Over 75 < = 90% Per cent,2017-Q2,31.061
+Summary 2,19,Over 75 < = 90% Per cent,2017-Q3,31.423
+Summary 2,19,Over 75 < = 90% Per cent,2017-Q4,31.451
+Summary 2,19,Over 75 < = 90% Per cent,2018-Q1,30.569
+Summary 2,19,Over 75 < = 90% Per cent,2018-Q2,32.285
+Summary 2,19,Over 75 < = 90% Per cent,2018-Q3,33.856
+Summary 2,19,Over 75 < = 90% Per cent,2018-Q4,33.397
+Summary 2,19,Over 75 < = 90% Per cent,2019-Q1,32.529
+Summary 2,19,Over 75 < = 90% Per cent,2019-Q2,34.159
+Summary 2,19,Over 75 < = 90% Per cent,2019-Q3,35.223
+Summary 2,19,Over 75 < = 90% Per cent,2019-Q4,34.792
+Summary 2,19,Over 75 < = 90% Per cent,2020-Q1,32.755
+Summary 2,19,Over 75 < = 90% Per cent,2020-Q2,31.569
+Summary 2,19,Over 75 < = 90% Per cent,2020-Q3,36.072
+Summary 2,19,Over 75 < = 90% Per cent,2020-Q4,38.755
+Summary 2,19,Over 75 < = 90% Per cent,2021-Q1,35.721
+Summary 2,19,Over 75 < = 90% Per cent,2021-Q2,37.665
+Summary 2,19,Over 75 < = 90% Per cent,2021-Q3,36.141
+Summary 2,19,Over 75 < = 90% Per cent,2021-Q4,32.543
+Summary 2,19,Over 75 < = 90% Per cent,2022-Q1,31.563
+Summary 2,19,Over 75 < = 90% Per cent,2022-Q2,33.766
+Summary 2,19,Over 75 < = 90% Per cent,2022-Q3,33.413
+Summary 2,19,Over 75 < = 90% Per cent,2022-Q4,31.964
+Summary 2,19,Over 75 < = 90% Per cent,2023-Q1,28.555
+Summary 2,19,Over 75 < = 90% Per cent,2023-Q2,32.314
+Summary 2,19,Over 75 < = 90% Per cent,2023-Q3,34.374
+Summary 2,19,Over 75 < = 90% Per cent,2023-Q4,34.604
+Summary 2,19,Over 75 < = 90% Per cent,2024-Q1,32.737
+Summary 2,19,Over 75 < = 90% Per cent,2024-Q2,36.744
+Summary 2,19,Over 75 < = 90% Per cent,2024-Q3,37.991
+Summary 2,19,Over 75 < = 90% Per cent,2024-Q4,37.758
+Summary 2,19,Over 75 < = 90% Per cent,2025-Q1,39.057
+Summary 2,19,Over 75 < = 90% Per cent,2025-Q2,36.276
+Summary 2,19,Over 75 < = 90% Per cent,2025-Q3,37.284
+Summary 2,19,Over 75 < = 90% Per cent,2025-Q4,38.576
+Summary 2,20,Over 90 < = 95% Per cent,2007-Q1,8.518
+Summary 2,20,Over 90 < = 95% Per cent,2007-Q2,9.29
+Summary 2,20,Over 90 < = 95% Per cent,2007-Q3,8.269
+Summary 2,20,Over 90 < = 95% Per cent,2007-Q4,7.781
+Summary 2,20,Over 90 < = 95% Per cent,2008-Q1,6.395
+Summary 2,20,Over 90 < = 95% Per cent,2008-Q2,7.284
+Summary 2,20,Over 90 < = 95% Per cent,2008-Q3,5.087
+Summary 2,20,Over 90 < = 95% Per cent,2008-Q4,4.581
+Summary 2,20,Over 90 < = 95% Per cent,2009-Q1,2.512
+Summary 2,20,Over 90 < = 95% Per cent,2009-Q2,1.907
+Summary 2,20,Over 90 < = 95% Per cent,2009-Q3,1.094
+Summary 2,20,Over 90 < = 95% Per cent,2009-Q4,0.911
+Summary 2,20,Over 90 < = 95% Per cent,2010-Q1,1.007
+Summary 2,20,Over 90 < = 95% Per cent,2010-Q2,1.614
+Summary 2,20,Over 90 < = 95% Per cent,2010-Q3,1.759
+Summary 2,20,Over 90 < = 95% Per cent,2010-Q4,1.578
+Summary 2,20,Over 90 < = 95% Per cent,2011-Q1,1.248
+Summary 2,20,Over 90 < = 95% Per cent,2011-Q2,1.483
+Summary 2,20,Over 90 < = 95% Per cent,2011-Q3,1.356
+Summary 2,20,Over 90 < = 95% Per cent,2011-Q4,1.452
+Summary 2,20,Over 90 < = 95% Per cent,2012-Q1,1.945
+Summary 2,20,Over 90 < = 95% Per cent,2012-Q2,1.76
+Summary 2,20,Over 90 < = 95% Per cent,2012-Q3,1.873
+Summary 2,20,Over 90 < = 95% Per cent,2012-Q4,1.712
+Summary 2,20,Over 90 < = 95% Per cent,2013-Q1,1.627
+Summary 2,20,Over 90 < = 95% Per cent,2013-Q2,2.092
+Summary 2,20,Over 90 < = 95% Per cent,2013-Q3,1.734
+Summary 2,20,Over 90 < = 95% Per cent,2013-Q4,1.725
+Summary 2,20,Over 90 < = 95% Per cent,2014-Q1,3.078
+Summary 2,20,Over 90 < = 95% Per cent,2014-Q2,4.162
+Summary 2,20,Over 90 < = 95% Per cent,2014-Q3,4.027
+Summary 2,20,Over 90 < = 95% Per cent,2014-Q4,3.466
+Summary 2,20,Over 90 < = 95% Per cent,2015-Q1,3.111
+Summary 2,20,Over 90 < = 95% Per cent,2015-Q2,3.534
+Summary 2,20,Over 90 < = 95% Per cent,2015-Q3,3.241
+Summary 2,20,Over 90 < = 95% Per cent,2015-Q4,3.181
+Summary 2,20,Over 90 < = 95% Per cent,2016-Q1,2.674
+Summary 2,20,Over 90 < = 95% Per cent,2016-Q2,3.97
+Summary 2,20,Over 90 < = 95% Per cent,2016-Q3,4.509
+Summary 2,20,Over 90 < = 95% Per cent,2016-Q4,4.025
+Summary 2,20,Over 90 < = 95% Per cent,2017-Q1,3.741
+Summary 2,20,Over 90 < = 95% Per cent,2017-Q2,4.453
+Summary 2,20,Over 90 < = 95% Per cent,2017-Q3,4.04
+Summary 2,20,Over 90 < = 95% Per cent,2017-Q4,3.512
+Summary 2,20,Over 90 < = 95% Per cent,2018-Q1,3.086
+Summary 2,20,Over 90 < = 95% Per cent,2018-Q2,3.622
+Summary 2,20,Over 90 < = 95% Per cent,2018-Q3,3.975
+Summary 2,20,Over 90 < = 95% Per cent,2018-Q4,4.105
+Summary 2,20,Over 90 < = 95% Per cent,2019-Q1,4.321
+Summary 2,20,Over 90 < = 95% Per cent,2019-Q2,5.221
+Summary 2,20,Over 90 < = 95% Per cent,2019-Q3,5.668
+Summary 2,20,Over 90 < = 95% Per cent,2019-Q4,5.451
+Summary 2,20,Over 90 < = 95% Per cent,2020-Q1,4.948
+Summary 2,20,Over 90 < = 95% Per cent,2020-Q2,4.566
+Summary 2,20,Over 90 < = 95% Per cent,2020-Q3,3.205
+Summary 2,20,Over 90 < = 95% Per cent,2020-Q4,1.058
+Summary 2,20,Over 90 < = 95% Per cent,2021-Q1,0.957
+Summary 2,20,Over 90 < = 95% Per cent,2021-Q2,1.817
+Summary 2,20,Over 90 < = 95% Per cent,2021-Q3,3.859
+Summary 2,20,Over 90 < = 95% Per cent,2021-Q4,3.942
+Summary 2,20,Over 90 < = 95% Per cent,2022-Q1,3.76
+Summary 2,20,Over 90 < = 95% Per cent,2022-Q2,4.258
+Summary 2,20,Over 90 < = 95% Per cent,2022-Q3,4.772
+Summary 2,20,Over 90 < = 95% Per cent,2022-Q4,4.815
+Summary 2,20,Over 90 < = 95% Per cent,2023-Q1,3.721
+Summary 2,20,Over 90 < = 95% Per cent,2023-Q2,4.239
+Summary 2,20,Over 90 < = 95% Per cent,2023-Q3,4.725
+Summary 2,20,Over 90 < = 95% Per cent,2023-Q4,5.187
+Summary 2,20,Over 90 < = 95% Per cent,2024-Q1,4.872
+Summary 2,20,Over 90 < = 95% Per cent,2024-Q2,5.684
+Summary 2,20,Over 90 < = 95% Per cent,2024-Q3,6.263
+Summary 2,20,Over 90 < = 95% Per cent,2024-Q4,6.068
+Summary 2,20,Over 90 < = 95% Per cent,2025-Q1,6.43
+Summary 2,20,Over 90 < = 95% Per cent,2025-Q2,6.648
+Summary 2,20,Over 90 < = 95% Per cent,2025-Q3,7.053
+Summary 2,20,Over 90 < = 95% Per cent,2025-Q4,7.834
+Summary 2,21,Over 95% Per cent,2007-Q1,5.619
+Summary 2,21,Over 95% Per cent,2007-Q2,5.471
+Summary 2,21,Over 95% Per cent,2007-Q3,6.057
+Summary 2,21,Over 95% Per cent,2007-Q4,5.545
+Summary 2,21,Over 95% Per cent,2008-Q1,4.173
+Summary 2,21,Over 95% Per cent,2008-Q2,3.109
+Summary 2,21,Over 95% Per cent,2008-Q3,1.395
+Summary 2,21,Over 95% Per cent,2008-Q4,1.347
+Summary 2,21,Over 95% Per cent,2009-Q1,0.893
+Summary 2,21,Over 95% Per cent,2009-Q2,0.801
+Summary 2,21,Over 95% Per cent,2009-Q3,0.509
+Summary 2,21,Over 95% Per cent,2009-Q4,0.559
+Summary 2,21,Over 95% Per cent,2010-Q1,0.586
+Summary 2,21,Over 95% Per cent,2010-Q2,0.486
+Summary 2,21,Over 95% Per cent,2010-Q3,0.569
+Summary 2,21,Over 95% Per cent,2010-Q4,0.599
+Summary 2,21,Over 95% Per cent,2011-Q1,0.467
+Summary 2,21,Over 95% Per cent,2011-Q2,0.369
+Summary 2,21,Over 95% Per cent,2011-Q3,0.352
+Summary 2,21,Over 95% Per cent,2011-Q4,0.388
+Summary 2,21,Over 95% Per cent,2012-Q1,0.365
+Summary 2,21,Over 95% Per cent,2012-Q2,0.638
+Summary 2,21,Over 95% Per cent,2012-Q3,0.444
+Summary 2,21,Over 95% Per cent,2012-Q4,0.372
+Summary 2,21,Over 95% Per cent,2013-Q1,0.478
+Summary 2,21,Over 95% Per cent,2013-Q2,0.449
+Summary 2,21,Over 95% Per cent,2013-Q3,0.424
+Summary 2,21,Over 95% Per cent,2013-Q4,0.404
+Summary 2,21,Over 95% Per cent,2014-Q1,0.458
+Summary 2,21,Over 95% Per cent,2014-Q2,0.426
+Summary 2,21,Over 95% Per cent,2014-Q3,0.342
+Summary 2,21,Over 95% Per cent,2014-Q4,0.332
+Summary 2,21,Over 95% Per cent,2015-Q1,0.411
+Summary 2,21,Over 95% Per cent,2015-Q2,0.302
+Summary 2,21,Over 95% Per cent,2015-Q3,0.241
+Summary 2,21,Over 95% Per cent,2015-Q4,0.244
+Summary 2,21,Over 95% Per cent,2016-Q1,0.27
+Summary 2,21,Over 95% Per cent,2016-Q2,0.221
+Summary 2,21,Over 95% Per cent,2016-Q3,0.291
+Summary 2,21,Over 95% Per cent,2016-Q4,0.392
+Summary 2,21,Over 95% Per cent,2017-Q1,0.249
+Summary 2,21,Over 95% Per cent,2017-Q2,0.272
+Summary 2,21,Over 95% Per cent,2017-Q3,0.25
+Summary 2,21,Over 95% Per cent,2017-Q4,0.295
+Summary 2,21,Over 95% Per cent,2018-Q1,0.224
+Summary 2,21,Over 95% Per cent,2018-Q2,0.178
+Summary 2,21,Over 95% Per cent,2018-Q3,0.246
+Summary 2,21,Over 95% Per cent,2018-Q4,0.203
+Summary 2,21,Over 95% Per cent,2019-Q1,0.187
+Summary 2,21,Over 95% Per cent,2019-Q2,0.279
+Summary 2,21,Over 95% Per cent,2019-Q3,0.253
+Summary 2,21,Over 95% Per cent,2019-Q4,0.267
+Summary 2,21,Over 95% Per cent,2020-Q1,0.281
+Summary 2,21,Over 95% Per cent,2020-Q2,0.284
+Summary 2,21,Over 95% Per cent,2020-Q3,0.31
+Summary 2,21,Over 95% Per cent,2020-Q4,0.16
+Summary 2,21,Over 95% Per cent,2021-Q1,0.147
+Summary 2,21,Over 95% Per cent,2021-Q2,0.253
+Summary 2,21,Over 95% Per cent,2021-Q3,0.301
+Summary 2,21,Over 95% Per cent,2021-Q4,0.235
+Summary 2,21,Over 95% Per cent,2022-Q1,0.186
+Summary 2,21,Over 95% Per cent,2022-Q2,0.195
+Summary 2,21,Over 95% Per cent,2022-Q3,0.242
+Summary 2,21,Over 95% Per cent,2022-Q4,0.248
+Summary 2,21,Over 95% Per cent,2023-Q1,0.273
+Summary 2,21,Over 95% Per cent,2023-Q2,0.264
+Summary 2,21,Over 95% Per cent,2023-Q3,0.3
+Summary 2,21,Over 95% Per cent,2023-Q4,0.335
+Summary 2,21,Over 95% Per cent,2024-Q1,0.302
+Summary 2,21,Over 95% Per cent,2024-Q2,0.326
+Summary 2,21,Over 95% Per cent,2024-Q3,0.308
+Summary 2,21,Over 95% Per cent,2024-Q4,0.217
+Summary 2,21,Over 95% Per cent,2025-Q1,0.235
+Summary 2,21,Over 95% Per cent,2025-Q2,0.328
+Summary 2,21,Over 95% Per cent,2025-Q3,0.369
+Summary 2,21,Over 95% Per cent,2025-Q4,0.512
+Summary 2,24,Over 90 < = 95% Per cent,2007-Q1,5.311
+Summary 2,24,Over 90 < = 95% Per cent,2007-Q2,5.732
+Summary 2,24,Over 90 < = 95% Per cent,2007-Q3,4.958
+Summary 2,24,Over 90 < = 95% Per cent,2007-Q4,4.888
+Summary 2,24,Over 90 < = 95% Per cent,2008-Q1,4.172
+Summary 2,24,Over 90 < = 95% Per cent,2008-Q2,4.966
+Summary 2,24,Over 90 < = 95% Per cent,2008-Q3,3.314
+Summary 2,24,Over 90 < = 95% Per cent,2008-Q4,2.817
+Summary 2,24,Over 90 < = 95% Per cent,2009-Q1,1.386
+Summary 2,24,Over 90 < = 95% Per cent,2009-Q2,1.054
+Summary 2,24,Over 90 < = 95% Per cent,2009-Q3,0.677
+Summary 2,24,Over 90 < = 95% Per cent,2009-Q4,0.551
+Summary 2,24,Over 90 < = 95% Per cent,2010-Q1,0.573
+Summary 2,24,Over 90 < = 95% Per cent,2010-Q2,0.917
+Summary 2,24,Over 90 < = 95% Per cent,2010-Q3,1.031
+Summary 2,24,Over 90 < = 95% Per cent,2010-Q4,0.906
+Summary 2,24,Over 90 < = 95% Per cent,2011-Q1,0.706
+Summary 2,24,Over 90 < = 95% Per cent,2011-Q2,0.771
+Summary 2,24,Over 90 < = 95% Per cent,2011-Q3,0.717
+Summary 2,24,Over 90 < = 95% Per cent,2011-Q4,0.81
+Summary 2,24,Over 90 < = 95% Per cent,2012-Q1,1.137
+Summary 2,24,Over 90 < = 95% Per cent,2012-Q2,1.02
+Summary 2,24,Over 90 < = 95% Per cent,2012-Q3,1.112
+Summary 2,24,Over 90 < = 95% Per cent,2012-Q4,1.029
+Summary 2,24,Over 90 < = 95% Per cent,2013-Q1,1.017
+Summary 2,24,Over 90 < = 95% Per cent,2013-Q2,1.315
+Summary 2,24,Over 90 < = 95% Per cent,2013-Q3,1.052
+Summary 2,24,Over 90 < = 95% Per cent,2013-Q4,1.19
+Summary 2,24,Over 90 < = 95% Per cent,2014-Q1,2.272
+Summary 2,24,Over 90 < = 95% Per cent,2014-Q2,3.05
+Summary 2,24,Over 90 < = 95% Per cent,2014-Q3,2.886
+Summary 2,24,Over 90 < = 95% Per cent,2014-Q4,2.345
+Summary 2,24,Over 90 < = 95% Per cent,2015-Q1,2.081
+Summary 2,24,Over 90 < = 95% Per cent,2015-Q2,2.367
+Summary 2,24,Over 90 < = 95% Per cent,2015-Q3,2.31
+Summary 2,24,Over 90 < = 95% Per cent,2015-Q4,2.322
+Summary 2,24,Over 90 < = 95% Per cent,2016-Q1,1.887
+Summary 2,24,Over 90 < = 95% Per cent,2016-Q2,2.894
+Summary 2,24,Over 90 < = 95% Per cent,2016-Q3,3.303
+Summary 2,24,Over 90 < = 95% Per cent,2016-Q4,2.971
+Summary 2,24,Over 90 < = 95% Per cent,2017-Q1,2.789
+Summary 2,24,Over 90 < = 95% Per cent,2017-Q2,3.412
+Summary 2,24,Over 90 < = 95% Per cent,2017-Q3,3.047
+Summary 2,24,Over 90 < = 95% Per cent,2017-Q4,2.6
+Summary 2,24,Over 90 < = 95% Per cent,2018-Q1,2.299
+Summary 2,24,Over 90 < = 95% Per cent,2018-Q2,2.692
+Summary 2,24,Over 90 < = 95% Per cent,2018-Q3,2.949
+Summary 2,24,Over 90 < = 95% Per cent,2018-Q4,3.078
+Summary 2,24,Over 90 < = 95% Per cent,2019-Q1,3.264
+Summary 2,24,Over 90 < = 95% Per cent,2019-Q2,3.955
+Summary 2,24,Over 90 < = 95% Per cent,2019-Q3,4.325
+Summary 2,24,Over 90 < = 95% Per cent,2019-Q4,4.147
+Summary 2,24,Over 90 < = 95% Per cent,2020-Q1,3.804
+Summary 2,24,Over 90 < = 95% Per cent,2020-Q2,3.532
+Summary 2,24,Over 90 < = 95% Per cent,2020-Q3,2.573
+Summary 2,24,Over 90 < = 95% Per cent,2020-Q4,0.843
+Summary 2,24,Over 90 < = 95% Per cent,2021-Q1,0.732
+Summary 2,24,Over 90 < = 95% Per cent,2021-Q2,1.527
+Summary 2,24,Over 90 < = 95% Per cent,2021-Q3,3.101
+Summary 2,24,Over 90 < = 95% Per cent,2021-Q4,3.188
+Summary 2,24,Over 90 < = 95% Per cent,2022-Q1,3.066
+Summary 2,24,Over 90 < = 95% Per cent,2022-Q2,3.492
+Summary 2,24,Over 90 < = 95% Per cent,2022-Q3,3.95
+Summary 2,24,Over 90 < = 95% Per cent,2022-Q4,3.795
+Summary 2,24,Over 90 < = 95% Per cent,2023-Q1,2.854
+Summary 2,24,Over 90 < = 95% Per cent,2023-Q2,3.121
+Summary 2,24,Over 90 < = 95% Per cent,2023-Q3,3.455
+Summary 2,24,Over 90 < = 95% Per cent,2023-Q4,3.706
+Summary 2,24,Over 90 < = 95% Per cent,2024-Q1,3.413
+Summary 2,24,Over 90 < = 95% Per cent,2024-Q2,4.089
+Summary 2,24,Over 90 < = 95% Per cent,2024-Q3,4.564
+Summary 2,24,Over 90 < = 95% Per cent,2024-Q4,4.447
+Summary 2,24,Over 90 < = 95% Per cent,2025-Q1,4.693
+Summary 2,24,Over 90 < = 95% Per cent,2025-Q2,4.7
+Summary 2,24,Over 90 < = 95% Per cent,2025-Q3,5.195
+Summary 2,24,Over 90 < = 95% Per cent,2025-Q4,5.906
+Summary 2,25,Over 95% Per cent,2007-Q1,3.473
+Summary 2,25,Over 95% Per cent,2007-Q2,3.472
+Summary 2,25,Over 95% Per cent,2007-Q3,3.891
+Summary 2,25,Over 95% Per cent,2007-Q4,3.587
+Summary 2,25,Over 95% Per cent,2008-Q1,2.733
+Summary 2,25,Over 95% Per cent,2008-Q2,2.073
+Summary 2,25,Over 95% Per cent,2008-Q3,0.85
+Summary 2,25,Over 95% Per cent,2008-Q4,0.792
+Summary 2,25,Over 95% Per cent,2009-Q1,0.502
+Summary 2,25,Over 95% Per cent,2009-Q2,0.502
+Summary 2,25,Over 95% Per cent,2009-Q3,0.335
+Summary 2,25,Over 95% Per cent,2009-Q4,0.294
+Summary 2,25,Over 95% Per cent,2010-Q1,0.305
+Summary 2,25,Over 95% Per cent,2010-Q2,0.304
+Summary 2,25,Over 95% Per cent,2010-Q3,0.318
+Summary 2,25,Over 95% Per cent,2010-Q4,0.303
+Summary 2,25,Over 95% Per cent,2011-Q1,0.183
+Summary 2,25,Over 95% Per cent,2011-Q2,0.106
+Summary 2,25,Over 95% Per cent,2011-Q3,0.179
+Summary 2,25,Over 95% Per cent,2011-Q4,0.238
+Summary 2,25,Over 95% Per cent,2012-Q1,0.171
+Summary 2,25,Over 95% Per cent,2012-Q2,0.3
+Summary 2,25,Over 95% Per cent,2012-Q3,0.265
+Summary 2,25,Over 95% Per cent,2012-Q4,0.196
+Summary 2,25,Over 95% Per cent,2013-Q1,0.254
+Summary 2,25,Over 95% Per cent,2013-Q2,0.286
+Summary 2,25,Over 95% Per cent,2013-Q3,0.269
+Summary 2,25,Over 95% Per cent,2013-Q4,0.297
+Summary 2,25,Over 95% Per cent,2014-Q1,0.332
+Summary 2,25,Over 95% Per cent,2014-Q2,0.305
+Summary 2,25,Over 95% Per cent,2014-Q3,0.23
+Summary 2,25,Over 95% Per cent,2014-Q4,0.202
+Summary 2,25,Over 95% Per cent,2015-Q1,0.207
+Summary 2,25,Over 95% Per cent,2015-Q2,0.192
+Summary 2,25,Over 95% Per cent,2015-Q3,0.122
+Summary 2,25,Over 95% Per cent,2015-Q4,0.145
+Summary 2,25,Over 95% Per cent,2016-Q1,0.164
+Summary 2,25,Over 95% Per cent,2016-Q2,0.141
+Summary 2,25,Over 95% Per cent,2016-Q3,0.158
+Summary 2,25,Over 95% Per cent,2016-Q4,0.161
+Summary 2,25,Over 95% Per cent,2017-Q1,0.144
+Summary 2,25,Over 95% Per cent,2017-Q2,0.152
+Summary 2,25,Over 95% Per cent,2017-Q3,0.136
+Summary 2,25,Over 95% Per cent,2017-Q4,0.153
+Summary 2,25,Over 95% Per cent,2018-Q1,0.119
+Summary 2,25,Over 95% Per cent,2018-Q2,0.099
+Summary 2,25,Over 95% Per cent,2018-Q3,0.149
+Summary 2,25,Over 95% Per cent,2018-Q4,0.109
+Summary 2,25,Over 95% Per cent,2019-Q1,0.114
+Summary 2,25,Over 95% Per cent,2019-Q2,0.142
+Summary 2,25,Over 95% Per cent,2019-Q3,0.157
+Summary 2,25,Over 95% Per cent,2019-Q4,0.157
+Summary 2,25,Over 95% Per cent,2020-Q1,0.176
+Summary 2,25,Over 95% Per cent,2020-Q2,0.2
+Summary 2,25,Over 95% Per cent,2020-Q3,0.225
+Summary 2,25,Over 95% Per cent,2020-Q4,0.093
+Summary 2,25,Over 95% Per cent,2021-Q1,0.089
+Summary 2,25,Over 95% Per cent,2021-Q2,0.149
+Summary 2,25,Over 95% Per cent,2021-Q3,0.195
+Summary 2,25,Over 95% Per cent,2021-Q4,0.174
+Summary 2,25,Over 95% Per cent,2022-Q1,0.131
+Summary 2,25,Over 95% Per cent,2022-Q2,0.134
+Summary 2,25,Over 95% Per cent,2022-Q3,0.177
+Summary 2,25,Over 95% Per cent,2022-Q4,0.179
+Summary 2,25,Over 95% Per cent,2023-Q1,0.187
+Summary 2,25,Over 95% Per cent,2023-Q2,0.158
+Summary 2,25,Over 95% Per cent,2023-Q3,0.172
+Summary 2,25,Over 95% Per cent,2023-Q4,0.194
+Summary 2,25,Over 95% Per cent,2024-Q1,0.179
+Summary 2,25,Over 95% Per cent,2024-Q2,0.224
+Summary 2,25,Over 95% Per cent,2024-Q3,0.198
+Summary 2,25,Over 95% Per cent,2024-Q4,0.132
+Summary 2,25,Over 95% Per cent,2025-Q1,0.151
+Summary 2,25,Over 95% Per cent,2025-Q2,0.21
+Summary 2,25,Over 95% Per cent,2025-Q3,0.25
+Summary 2,25,Over 95% Per cent,2025-Q4,0.375
+Summary 2,26,All over 90% Per cent,2007-Q1,8.784
+Summary 2,26,All over 90% Per cent,2007-Q2,9.204
+Summary 2,26,All over 90% Per cent,2007-Q3,8.849
+Summary 2,26,All over 90% Per cent,2007-Q4,8.475
+Summary 2,26,All over 90% Per cent,2008-Q1,6.905
+Summary 2,26,All over 90% Per cent,2008-Q2,7.039
+Summary 2,26,All over 90% Per cent,2008-Q3,4.165
+Summary 2,26,All over 90% Per cent,2008-Q4,3.609
+Summary 2,26,All over 90% Per cent,2009-Q1,1.889
+Summary 2,26,All over 90% Per cent,2009-Q2,1.556
+Summary 2,26,All over 90% Per cent,2009-Q3,1.012
+Summary 2,26,All over 90% Per cent,2009-Q4,0.846
+Summary 2,26,All over 90% Per cent,2010-Q1,0.878
+Summary 2,26,All over 90% Per cent,2010-Q2,1.221
+Summary 2,26,All over 90% Per cent,2010-Q3,1.349
+Summary 2,26,All over 90% Per cent,2010-Q4,1.209
+Summary 2,26,All over 90% Per cent,2011-Q1,0.889
+Summary 2,26,All over 90% Per cent,2011-Q2,0.878
+Summary 2,26,All over 90% Per cent,2011-Q3,0.896
+Summary 2,26,All over 90% Per cent,2011-Q4,1.048
+Summary 2,26,All over 90% Per cent,2012-Q1,1.309
+Summary 2,26,All over 90% Per cent,2012-Q2,1.32
+Summary 2,26,All over 90% Per cent,2012-Q3,1.378
+Summary 2,26,All over 90% Per cent,2012-Q4,1.225
+Summary 2,26,All over 90% Per cent,2013-Q1,1.271
+Summary 2,26,All over 90% Per cent,2013-Q2,1.601
+Summary 2,26,All over 90% Per cent,2013-Q3,1.321
+Summary 2,26,All over 90% Per cent,2013-Q4,1.487
+Summary 2,26,All over 90% Per cent,2014-Q1,2.604
+Summary 2,26,All over 90% Per cent,2014-Q2,3.355
+Summary 2,26,All over 90% Per cent,2014-Q3,3.116
+Summary 2,26,All over 90% Per cent,2014-Q4,2.547
+Summary 2,26,All over 90% Per cent,2015-Q1,2.288
+Summary 2,26,All over 90% Per cent,2015-Q2,2.559
+Summary 2,26,All over 90% Per cent,2015-Q3,2.432
+Summary 2,26,All over 90% Per cent,2015-Q4,2.467
+Summary 2,26,All over 90% Per cent,2016-Q1,2.051
+Summary 2,26,All over 90% Per cent,2016-Q2,3.035
+Summary 2,26,All over 90% Per cent,2016-Q3,3.461
+Summary 2,26,All over 90% Per cent,2016-Q4,3.132
+Summary 2,26,All over 90% Per cent,2017-Q1,2.933
+Summary 2,26,All over 90% Per cent,2017-Q2,3.564
+Summary 2,26,All over 90% Per cent,2017-Q3,3.182
+Summary 2,26,All over 90% Per cent,2017-Q4,2.752
+Summary 2,26,All over 90% Per cent,2018-Q1,2.418
+Summary 2,26,All over 90% Per cent,2018-Q2,2.791
+Summary 2,26,All over 90% Per cent,2018-Q3,3.098
+Summary 2,26,All over 90% Per cent,2018-Q4,3.187
+Summary 2,26,All over 90% Per cent,2019-Q1,3.378
+Summary 2,26,All over 90% Per cent,2019-Q2,4.097
+Summary 2,26,All over 90% Per cent,2019-Q3,4.482
+Summary 2,26,All over 90% Per cent,2019-Q4,4.304
+Summary 2,26,All over 90% Per cent,2020-Q1,3.981
+Summary 2,26,All over 90% Per cent,2020-Q2,3.732
+Summary 2,26,All over 90% Per cent,2020-Q3,2.798
+Summary 2,26,All over 90% Per cent,2020-Q4,0.935
+Summary 2,26,All over 90% Per cent,2021-Q1,0.821
+Summary 2,26,All over 90% Per cent,2021-Q2,1.676
+Summary 2,26,All over 90% Per cent,2021-Q3,3.297
+Summary 2,26,All over 90% Per cent,2021-Q4,3.362
+Summary 2,26,All over 90% Per cent,2022-Q1,3.197
+Summary 2,26,All over 90% Per cent,2022-Q2,3.626
+Summary 2,26,All over 90% Per cent,2022-Q3,4.126
+Summary 2,26,All over 90% Per cent,2022-Q4,3.974
+Summary 2,26,All over 90% Per cent,2023-Q1,3.041
+Summary 2,26,All over 90% Per cent,2023-Q2,3.279
+Summary 2,26,All over 90% Per cent,2023-Q3,3.626
+Summary 2,26,All over 90% Per cent,2023-Q4,3.901
+Summary 2,26,All over 90% Per cent,2024-Q1,3.592
+Summary 2,26,All over 90% Per cent,2024-Q2,4.313
+Summary 2,26,All over 90% Per cent,2024-Q3,4.763
+Summary 2,26,All over 90% Per cent,2024-Q4,4.579
+Summary 2,26,All over 90% Per cent,2025-Q1,4.844
+Summary 2,26,All over 90% Per cent,2025-Q2,4.91
+Summary 2,26,All over 90% Per cent,2025-Q3,5.445
+Summary 2,26,All over 90% Per cent,2025-Q4,6.282
+Summary 2,29,Loans with impaired credit history Per cent,2007-Q1,3.589
+Summary 2,29,Loans with impaired credit history Per cent,2007-Q2,3.417
+Summary 2,29,Loans with impaired credit history Per cent,2007-Q3,3.581
+Summary 2,29,Loans with impaired credit history Per cent,2007-Q4,3.228
+Summary 2,29,Loans with impaired credit history Per cent,2008-Q1,2.399
+Summary 2,29,Loans with impaired credit history Per cent,2008-Q2,2.156
+Summary 2,29,Loans with impaired credit history Per cent,2008-Q3,1.585
+Summary 2,29,Loans with impaired credit history Per cent,2008-Q4,0.932
+Summary 2,29,Loans with impaired credit history Per cent,2009-Q1,0.728
+Summary 2,29,Loans with impaired credit history Per cent,2009-Q2,0.423
+Summary 2,29,Loans with impaired credit history Per cent,2009-Q3,0.33
+Summary 2,29,Loans with impaired credit history Per cent,2009-Q4,0.328
+Summary 2,29,Loans with impaired credit history Per cent,2010-Q1,0.354
+Summary 2,29,Loans with impaired credit history Per cent,2010-Q2,0.392
+Summary 2,29,Loans with impaired credit history Per cent,2010-Q3,0.369
+Summary 2,29,Loans with impaired credit history Per cent,2010-Q4,0.32
+Summary 2,29,Loans with impaired credit history Per cent,2011-Q1,0.327
+Summary 2,29,Loans with impaired credit history Per cent,2011-Q2,0.355
+Summary 2,29,Loans with impaired credit history Per cent,2011-Q3,0.37
+Summary 2,29,Loans with impaired credit history Per cent,2011-Q4,0.355
+Summary 2,29,Loans with impaired credit history Per cent,2012-Q1,0.289
+Summary 2,29,Loans with impaired credit history Per cent,2012-Q2,0.272
+Summary 2,29,Loans with impaired credit history Per cent,2012-Q3,0.252
+Summary 2,29,Loans with impaired credit history Per cent,2012-Q4,0.29
+Summary 2,29,Loans with impaired credit history Per cent,2013-Q1,0.258
+Summary 2,29,Loans with impaired credit history Per cent,2013-Q2,0.211
+Summary 2,29,Loans with impaired credit history Per cent,2013-Q3,0.199
+Summary 2,29,Loans with impaired credit history Per cent,2013-Q4,0.199
+Summary 2,29,Loans with impaired credit history Per cent,2014-Q1,0.196
+Summary 2,29,Loans with impaired credit history Per cent,2014-Q2,0.188
+Summary 2,29,Loans with impaired credit history Per cent,2014-Q3,0.198
+Summary 2,29,Loans with impaired credit history Per cent,2014-Q4,0.221
+Summary 2,29,Loans with impaired credit history Per cent,2015-Q1,0.194
+Summary 2,29,Loans with impaired credit history Per cent,2015-Q2,0.198
+Summary 2,29,Loans with impaired credit history Per cent,2015-Q3,0.189
+Summary 2,29,Loans with impaired credit history Per cent,2015-Q4,0.256
+Summary 2,29,Loans with impaired credit history Per cent,2016-Q1,0.237
+Summary 2,29,Loans with impaired credit history Per cent,2016-Q2,0.261
+Summary 2,29,Loans with impaired credit history Per cent,2016-Q3,0.252
+Summary 2,29,Loans with impaired credit history Per cent,2016-Q4,0.234
+Summary 2,29,Loans with impaired credit history Per cent,2017-Q1,0.228
+Summary 2,29,Loans with impaired credit history Per cent,2017-Q2,0.27
+Summary 2,29,Loans with impaired credit history Per cent,2017-Q3,0.271
+Summary 2,29,Loans with impaired credit history Per cent,2017-Q4,0.32
+Summary 2,29,Loans with impaired credit history Per cent,2018-Q1,0.293
+Summary 2,29,Loans with impaired credit history Per cent,2018-Q2,0.591
+Summary 2,29,Loans with impaired credit history Per cent,2018-Q3,0.609
+Summary 2,29,Loans with impaired credit history Per cent,2018-Q4,0.62
+Summary 2,29,Loans with impaired credit history Per cent,2019-Q1,0.609
+Summary 2,29,Loans with impaired credit history Per cent,2019-Q2,0.552
+Summary 2,29,Loans with impaired credit history Per cent,2019-Q3,0.579
+Summary 2,29,Loans with impaired credit history Per cent,2019-Q4,0.638
+Summary 2,29,Loans with impaired credit history Per cent,2020-Q1,0.607
+Summary 2,29,Loans with impaired credit history Per cent,2020-Q2,0.503
+Summary 2,29,Loans with impaired credit history Per cent,2020-Q3,0.431
+Summary 2,29,Loans with impaired credit history Per cent,2020-Q4,0.372
+Summary 2,29,Loans with impaired credit history Per cent,2021-Q1,0.374
+Summary 2,29,Loans with impaired credit history Per cent,2021-Q2,0.417
+Summary 2,29,Loans with impaired credit history Per cent,2021-Q3,0.414
+Summary 2,29,Loans with impaired credit history Per cent,2021-Q4,0.447
+Summary 2,29,Loans with impaired credit history Per cent,2022-Q1,0.43
+Summary 2,29,Loans with impaired credit history Per cent,2022-Q2,0.459
+Summary 2,29,Loans with impaired credit history Per cent,2022-Q3,0.454
+Summary 2,29,Loans with impaired credit history Per cent,2022-Q4,0.46
+Summary 2,29,Loans with impaired credit history Per cent,2023-Q1,0.381
+Summary 2,29,Loans with impaired credit history Per cent,2023-Q2,0.493
+Summary 2,29,Loans with impaired credit history Per cent,2023-Q3,0.507
+Summary 2,29,Loans with impaired credit history Per cent,2023-Q4,0.519
+Summary 2,29,Loans with impaired credit history Per cent,2024-Q1,0.549
+Summary 2,29,Loans with impaired credit history Per cent,2024-Q2,0.609
+Summary 2,29,Loans with impaired credit history Per cent,2024-Q3,0.737
+Summary 2,29,Loans with impaired credit history Per cent,2024-Q4,0.744
+Summary 2,29,Loans with impaired credit history Per cent,2025-Q1,0.696
+Summary 2,29,Loans with impaired credit history Per cent,2025-Q2,0.985
+Summary 2,29,Loans with impaired credit history Per cent,2025-Q3,0.759
+Summary 2,29,Loans with impaired credit history Per cent,2025-Q4,0.815
+Summary 2,30,Loans without impaired credit history Per cent,2007-Q1,96.411
+Summary 2,30,Loans without impaired credit history Per cent,2007-Q2,96.583
+Summary 2,30,Loans without impaired credit history Per cent,2007-Q3,96.419
+Summary 2,30,Loans without impaired credit history Per cent,2007-Q4,96.772
+Summary 2,30,Loans without impaired credit history Per cent,2008-Q1,97.601
+Summary 2,30,Loans without impaired credit history Per cent,2008-Q2,97.844
+Summary 2,30,Loans without impaired credit history Per cent,2008-Q3,98.415
+Summary 2,30,Loans without impaired credit history Per cent,2008-Q4,99.068
+Summary 2,30,Loans without impaired credit history Per cent,2009-Q1,99.272
+Summary 2,30,Loans without impaired credit history Per cent,2009-Q2,99.577
+Summary 2,30,Loans without impaired credit history Per cent,2009-Q3,99.67
+Summary 2,30,Loans without impaired credit history Per cent,2009-Q4,99.672
+Summary 2,30,Loans without impaired credit history Per cent,2010-Q1,99.646
+Summary 2,30,Loans without impaired credit history Per cent,2010-Q2,99.608
+Summary 2,30,Loans without impaired credit history Per cent,2010-Q3,99.631
+Summary 2,30,Loans without impaired credit history Per cent,2010-Q4,99.68
+Summary 2,30,Loans without impaired credit history Per cent,2011-Q1,99.673
+Summary 2,30,Loans without impaired credit history Per cent,2011-Q2,99.645
+Summary 2,30,Loans without impaired credit history Per cent,2011-Q3,99.63
+Summary 2,30,Loans without impaired credit history Per cent,2011-Q4,99.645
+Summary 2,30,Loans without impaired credit history Per cent,2012-Q1,99.711
+Summary 2,30,Loans without impaired credit history Per cent,2012-Q2,99.728
+Summary 2,30,Loans without impaired credit history Per cent,2012-Q3,99.748
+Summary 2,30,Loans without impaired credit history Per cent,2012-Q4,99.71
+Summary 2,30,Loans without impaired credit history Per cent,2013-Q1,99.742
+Summary 2,30,Loans without impaired credit history Per cent,2013-Q2,99.789
+Summary 2,30,Loans without impaired credit history Per cent,2013-Q3,99.801
+Summary 2,30,Loans without impaired credit history Per cent,2013-Q4,99.801
+Summary 2,30,Loans without impaired credit history Per cent,2014-Q1,99.804
+Summary 2,30,Loans without impaired credit history Per cent,2014-Q2,99.812
+Summary 2,30,Loans without impaired credit history Per cent,2014-Q3,99.802
+Summary 2,30,Loans without impaired credit history Per cent,2014-Q4,99.779
+Summary 2,30,Loans without impaired credit history Per cent,2015-Q1,99.806
+Summary 2,30,Loans without impaired credit history Per cent,2015-Q2,99.802
+Summary 2,30,Loans without impaired credit history Per cent,2015-Q3,99.811
+Summary 2,30,Loans without impaired credit history Per cent,2015-Q4,99.744
+Summary 2,30,Loans without impaired credit history Per cent,2016-Q1,99.763
+Summary 2,30,Loans without impaired credit history Per cent,2016-Q2,99.739
+Summary 2,30,Loans without impaired credit history Per cent,2016-Q3,99.748
+Summary 2,30,Loans without impaired credit history Per cent,2016-Q4,99.766
+Summary 2,30,Loans without impaired credit history Per cent,2017-Q1,99.772
+Summary 2,30,Loans without impaired credit history Per cent,2017-Q2,99.73
+Summary 2,30,Loans without impaired credit history Per cent,2017-Q3,99.729
+Summary 2,30,Loans without impaired credit history Per cent,2017-Q4,99.68
+Summary 2,30,Loans without impaired credit history Per cent,2018-Q1,99.707
+Summary 2,30,Loans without impaired credit history Per cent,2018-Q2,99.409
+Summary 2,30,Loans without impaired credit history Per cent,2018-Q3,99.391
+Summary 2,30,Loans without impaired credit history Per cent,2018-Q4,99.38
+Summary 2,30,Loans without impaired credit history Per cent,2019-Q1,99.391
+Summary 2,30,Loans without impaired credit history Per cent,2019-Q2,99.448
+Summary 2,30,Loans without impaired credit history Per cent,2019-Q3,99.421
+Summary 2,30,Loans without impaired credit history Per cent,2019-Q4,99.362
+Summary 2,30,Loans without impaired credit history Per cent,2020-Q1,99.393
+Summary 2,30,Loans without impaired credit history Per cent,2020-Q2,99.497
+Summary 2,30,Loans without impaired credit history Per cent,2020-Q3,99.569
+Summary 2,30,Loans without impaired credit history Per cent,2020-Q4,99.628
+Summary 2,30,Loans without impaired credit history Per cent,2021-Q1,99.626
+Summary 2,30,Loans without impaired credit history Per cent,2021-Q2,99.583
+Summary 2,30,Loans without impaired credit history Per cent,2021-Q3,99.586
+Summary 2,30,Loans without impaired credit history Per cent,2021-Q4,99.553
+Summary 2,30,Loans without impaired credit history Per cent,2022-Q1,99.57
+Summary 2,30,Loans without impaired credit history Per cent,2022-Q2,99.541
+Summary 2,30,Loans without impaired credit history Per cent,2022-Q3,99.546
+Summary 2,30,Loans without impaired credit history Per cent,2022-Q4,99.54
+Summary 2,30,Loans without impaired credit history Per cent,2023-Q1,99.619
+Summary 2,30,Loans without impaired credit history Per cent,2023-Q2,99.507
+Summary 2,30,Loans without impaired credit history Per cent,2023-Q3,99.493
+Summary 2,30,Loans without impaired credit history Per cent,2023-Q4,99.481
+Summary 2,30,Loans without impaired credit history Per cent,2024-Q1,99.451
+Summary 2,30,Loans without impaired credit history Per cent,2024-Q2,99.391
+Summary 2,30,Loans without impaired credit history Per cent,2024-Q3,99.263
+Summary 2,30,Loans without impaired credit history Per cent,2024-Q4,99.256
+Summary 2,30,Loans without impaired credit history Per cent,2025-Q1,99.304
+Summary 2,30,Loans without impaired credit history Per cent,2025-Q2,99.015
+Summary 2,30,Loans without impaired credit history Per cent,2025-Q3,99.241
+Summary 2,30,Loans without impaired credit history Per cent,2025-Q4,99.185
+Summary 2,34,Unsecuritised £ millions,2007-Q1,881860.996
+Summary 2,34,Unsecuritised £ millions,2007-Q2,907600.909
+Summary 2,34,Unsecuritised £ millions,2007-Q3,930927.683
+Summary 2,34,Unsecuritised £ millions,2007-Q4,951207.153
+Summary 2,34,Unsecuritised £ millions,2008-Q1,980473.997
+Summary 2,34,Unsecuritised £ millions,2008-Q2,973933.408
+Summary 2,34,Unsecuritised £ millions,2008-Q3,987054.812
+Summary 2,34,Unsecuritised £ millions,2008-Q4,973757.095
+Summary 2,34,Unsecuritised £ millions,2009-Q1,972395.959
+Summary 2,34,Unsecuritised £ millions,2009-Q2,980228.147
+Summary 2,34,Unsecuritised £ millions,2009-Q3,1024685.587
+Summary 2,34,Unsecuritised £ millions,2009-Q4,1036627.978
+Summary 2,34,Unsecuritised £ millions,2010-Q1,1047014.239
+Summary 2,34,Unsecuritised £ millions,2010-Q2,1052953.479
+Summary 2,34,Unsecuritised £ millions,2010-Q3,1057269.336
+Summary 2,34,Unsecuritised £ millions,2010-Q4,1084167.608
+Summary 2,34,Unsecuritised £ millions,2011-Q1,1084821.283
+Summary 2,34,Unsecuritised £ millions,2011-Q2,1087891.27
+Summary 2,34,Unsecuritised £ millions,2011-Q3,1093579.8
+Summary 2,34,Unsecuritised £ millions,2011-Q4,1096832.273
+Summary 2,34,Unsecuritised £ millions,2012-Q1,1095554.005
+Summary 2,34,Unsecuritised £ millions,2012-Q2,1099893.536
+Summary 2,34,Unsecuritised £ millions,2012-Q3,1102516.302
+Summary 2,34,Unsecuritised £ millions,2012-Q4,1106220.581
+Summary 2,34,Unsecuritised £ millions,2013-Q1,1110312.57
+Summary 2,34,Unsecuritised £ millions,2013-Q2,1114405.453
+Summary 2,34,Unsecuritised £ millions,2013-Q3,1123337.033
+Summary 2,34,Unsecuritised £ millions,2013-Q4,1132487.169
+Summary 2,34,Unsecuritised £ millions,2014-Q1,1142240.13
+Summary 2,34,Unsecuritised £ millions,2014-Q2,1150045.52
+Summary 2,34,Unsecuritised £ millions,2014-Q3,1162111.213
+Summary 2,34,Unsecuritised £ millions,2014-Q4,1169039.961
+Summary 2,34,Unsecuritised £ millions,2015-Q1,1177275.553
+Summary 2,34,Unsecuritised £ millions,2015-Q2,1187744.575
+Summary 2,34,Unsecuritised £ millions,2015-Q3,1197764.176
+Summary 2,34,Unsecuritised £ millions,2015-Q4,1210408.38
+Summary 2,34,Unsecuritised £ millions,2016-Q1,1222644.969
+Summary 2,34,Unsecuritised £ millions,2016-Q2,1239966.142
+Summary 2,34,Unsecuritised £ millions,2016-Q3,1251083.672
+Summary 2,34,Unsecuritised £ millions,2016-Q4,1261928.341
+Summary 2,34,Unsecuritised £ millions,2017-Q1,1272995.403
+Summary 2,34,Unsecuritised £ millions,2017-Q2,1274643.082
+Summary 2,34,Unsecuritised £ millions,2017-Q3,1293850.902
+Summary 2,34,Unsecuritised £ millions,2017-Q4,1304151.232
+Summary 2,34,Unsecuritised £ millions,2018-Q1,1310909.29
+Summary 2,34,Unsecuritised £ millions,2018-Q2,1317832.289
+Summary 2,34,Unsecuritised £ millions,2018-Q3,1328928.374
+Summary 2,34,Unsecuritised £ millions,2018-Q4,1346328.877
+Summary 2,34,Unsecuritised £ millions,2019-Q1,1354875.959
+Summary 2,34,Unsecuritised £ millions,2019-Q2,1362009.92
+Summary 2,34,Unsecuritised £ millions,2019-Q3,1376194.111
+Summary 2,34,Unsecuritised £ millions,2019-Q4,1395131.734
+Summary 2,34,Unsecuritised £ millions,2020-Q1,1404095.795
+Summary 2,34,Unsecuritised £ millions,2020-Q2,1408808.888
+Summary 2,34,Unsecuritised £ millions,2020-Q3,1420765.851
+Summary 2,34,Unsecuritised £ millions,2020-Q4,1438494.157
+Summary 2,34,Unsecuritised £ millions,2021-Q1,1454397.819
+Summary 2,34,Unsecuritised £ millions,2021-Q2,1481349.931
+Summary 2,34,Unsecuritised £ millions,2021-Q3,1495794.656
+Summary 2,34,Unsecuritised £ millions,2021-Q4,1506815.416
+Summary 2,34,Unsecuritised £ millions,2022-Q1,1524710.255
+Summary 2,34,Unsecuritised £ millions,2022-Q2,1541098.859
+Summary 2,34,Unsecuritised £ millions,2022-Q3,1559133.069
+Summary 2,34,Unsecuritised £ millions,2022-Q4,1570365.051
+Summary 2,34,Unsecuritised £ millions,2023-Q1,1566908.254
+Summary 2,34,Unsecuritised £ millions,2023-Q2,1563848.521
+Summary 2,34,Unsecuritised £ millions,2023-Q3,1565255.224
+Summary 2,34,Unsecuritised £ millions,2023-Q4,1564998.175
+Summary 2,34,Unsecuritised £ millions,2024-Q1,1562697.793
+Summary 2,34,Unsecuritised £ millions,2024-Q2,1568594.921
+Summary 2,34,Unsecuritised £ millions,2024-Q3,1567578.805
+Summary 2,34,Unsecuritised £ millions,2024-Q4,1575003.094
+Summary 2,34,Unsecuritised £ millions,2025-Q1,1593711.354
+Summary 2,34,Unsecuritised £ millions,2025-Q2,1600254.531
+Summary 2,34,Unsecuritised £ millions,2025-Q3,1614179.489
+Summary 2,34,Unsecuritised £ millions,2025-Q4,1626074.827
+Summary 2,35,Securitised £ millions,2007-Q1,182502.841
+Summary 2,35,Securitised £ millions,2007-Q2,200470.21
+Summary 2,35,Securitised £ millions,2007-Q3,206970.632
+Summary 2,35,Securitised £ millions,2007-Q4,208654.812
+Summary 2,35,Securitised £ millions,2008-Q1,197287.938
+Summary 2,35,Securitised £ millions,2008-Q2,214683.171
+Summary 2,35,Securitised £ millions,2008-Q3,209405.349
+Summary 2,35,Securitised £ millions,2008-Q4,226959.088
+Summary 2,35,Securitised £ millions,2009-Q1,226016.834
+Summary 2,35,Securitised £ millions,2009-Q2,220705.876
+Summary 2,35,Securitised £ millions,2009-Q3,178682.168
+Summary 2,35,Securitised £ millions,2009-Q4,170672.846
+Summary 2,35,Securitised £ millions,2010-Q1,159118.953
+Summary 2,35,Securitised £ millions,2010-Q2,156000.596
+Summary 2,35,Securitised £ millions,2010-Q3,156103.555
+Summary 2,35,Securitised £ millions,2010-Q4,128886.631
+Summary 2,35,Securitised £ millions,2011-Q1,127616.144
+Summary 2,35,Securitised £ millions,2011-Q2,126763.849
+Summary 2,35,Securitised £ millions,2011-Q3,124042.367
+Summary 2,35,Securitised £ millions,2011-Q4,121630.649
+Summary 2,35,Securitised £ millions,2012-Q1,125926.536
+Summary 2,35,Securitised £ millions,2012-Q2,123583.575
+Summary 2,35,Securitised £ millions,2012-Q3,124802.7
+Summary 2,35,Securitised £ millions,2012-Q4,122444.061
+Summary 2,35,Securitised £ millions,2013-Q1,118314.504
+Summary 2,35,Securitised £ millions,2013-Q2,115997.852
+Summary 2,35,Securitised £ millions,2013-Q3,111112.132
+Summary 2,35,Securitised £ millions,2013-Q4,106436.159
+Summary 2,35,Securitised £ millions,2014-Q1,101316.949
+Summary 2,35,Securitised £ millions,2014-Q2,99824.648
+Summary 2,35,Securitised £ millions,2014-Q3,94050.254
+Summary 2,35,Securitised £ millions,2014-Q4,91083.333
+Summary 2,35,Securitised £ millions,2015-Q1,84316.975
+Summary 2,35,Securitised £ millions,2015-Q2,84212.835
+Summary 2,35,Securitised £ millions,2015-Q3,84188.381
+Summary 2,35,Securitised £ millions,2015-Q4,81000.443
+Summary 2,35,Securitised £ millions,2016-Q1,82102.0
+Summary 2,35,Securitised £ millions,2016-Q2,76369.162
+Summary 2,35,Securitised £ millions,2016-Q3,79718.725
+Summary 2,35,Securitised £ millions,2016-Q4,75939.522
+Summary 2,35,Securitised £ millions,2017-Q1,79777.73
+Summary 2,35,Securitised £ millions,2017-Q2,73558.81
+Summary 2,35,Securitised £ millions,2017-Q3,74356.199
+Summary 2,35,Securitised £ millions,2017-Q4,75026.582
+Summary 2,35,Securitised £ millions,2018-Q1,92436.69
+Summary 2,35,Securitised £ millions,2018-Q2,89604.328
+Summary 2,35,Securitised £ millions,2018-Q3,91281.194
+Summary 2,35,Securitised £ millions,2018-Q4,97488.995
+Summary 2,35,Securitised £ millions,2019-Q1,96953.225
+Summary 2,35,Securitised £ millions,2019-Q2,103587.877
+Summary 2,35,Securitised £ millions,2019-Q3,108699.093
+Summary 2,35,Securitised £ millions,2019-Q4,101776.779
+Summary 2,35,Securitised £ millions,2020-Q1,103627.097
+Summary 2,35,Securitised £ millions,2020-Q2,106015.256
+Summary 2,35,Securitised £ millions,2020-Q3,105264.991
+Summary 2,35,Securitised £ millions,2020-Q4,102954.81
+Summary 2,35,Securitised £ millions,2021-Q1,107175.002
+Summary 2,35,Securitised £ millions,2021-Q2,106286.634
+Summary 2,35,Securitised £ millions,2021-Q3,106100.55
+Summary 2,35,Securitised £ millions,2021-Q4,106651.185
+Summary 2,35,Securitised £ millions,2022-Q1,106111.575
+Summary 2,35,Securitised £ millions,2022-Q2,107709.472
+Summary 2,35,Securitised £ millions,2022-Q3,107354.471
+Summary 2,35,Securitised £ millions,2022-Q4,104932.368
+Summary 2,35,Securitised £ millions,2023-Q1,109050.806
+Summary 2,35,Securitised £ millions,2023-Q2,109225.774
+Summary 2,35,Securitised £ millions,2023-Q3,107916.993
+Summary 2,35,Securitised £ millions,2023-Q4,106800.454
+Summary 2,35,Securitised £ millions,2024-Q1,107272.287
+Summary 2,35,Securitised £ millions,2024-Q2,107710.113
+Summary 2,35,Securitised £ millions,2024-Q3,107162.656
+Summary 2,35,Securitised £ millions,2024-Q4,108403.75
+Summary 2,35,Securitised £ millions,2025-Q1,108709.628
+Summary 2,35,Securitised £ millions,2025-Q2,106828.933
+Summary 2,35,Securitised £ millions,2025-Q3,107080.873
+Summary 2,35,Securitised £ millions,2025-Q4,108359.801
+Summary 2,36,Overall residential loans to individuals £ millions,2007-Q1,1064363.837
+Summary 2,36,Overall residential loans to individuals £ millions,2007-Q2,1108071.119
+Summary 2,36,Overall residential loans to individuals £ millions,2007-Q3,1137898.315
+Summary 2,36,Overall residential loans to individuals £ millions,2007-Q4,1159861.965
+Summary 2,36,Overall residential loans to individuals £ millions,2008-Q1,1177761.935
+Summary 2,36,Overall residential loans to individuals £ millions,2008-Q2,1188616.579
+Summary 2,36,Overall residential loans to individuals £ millions,2008-Q3,1196460.161
+Summary 2,36,Overall residential loans to individuals £ millions,2008-Q4,1200716.183
+Summary 2,36,Overall residential loans to individuals £ millions,2009-Q1,1198412.793
+Summary 2,36,Overall residential loans to individuals £ millions,2009-Q2,1200934.023
+Summary 2,36,Overall residential loans to individuals £ millions,2009-Q3,1203367.755
+Summary 2,36,Overall residential loans to individuals £ millions,2009-Q4,1207300.824
+Summary 2,36,Overall residential loans to individuals £ millions,2010-Q1,1206133.192
+Summary 2,36,Overall residential loans to individuals £ millions,2010-Q2,1208954.075
+Summary 2,36,Overall residential loans to individuals £ millions,2010-Q3,1213372.891
+Summary 2,36,Overall residential loans to individuals £ millions,2010-Q4,1213054.239
+Summary 2,36,Overall residential loans to individuals £ millions,2011-Q1,1212437.427
+Summary 2,36,Overall residential loans to individuals £ millions,2011-Q2,1214655.119
+Summary 2,36,Overall residential loans to individuals £ millions,2011-Q3,1217622.167
+Summary 2,36,Overall residential loans to individuals £ millions,2011-Q4,1218462.922
+Summary 2,36,Overall residential loans to individuals £ millions,2012-Q1,1221480.541
+Summary 2,36,Overall residential loans to individuals £ millions,2012-Q2,1223477.111
+Summary 2,36,Overall residential loans to individuals £ millions,2012-Q3,1227319.002
+Summary 2,36,Overall residential loans to individuals £ millions,2012-Q4,1228664.642
+Summary 2,36,Overall residential loans to individuals £ millions,2013-Q1,1228627.074
+Summary 2,36,Overall residential loans to individuals £ millions,2013-Q2,1230403.305
+Summary 2,36,Overall residential loans to individuals £ millions,2013-Q3,1234449.165
+Summary 2,36,Overall residential loans to individuals £ millions,2013-Q4,1238923.328
+Summary 2,36,Overall residential loans to individuals £ millions,2014-Q1,1243557.079
+Summary 2,36,Overall residential loans to individuals £ millions,2014-Q2,1249870.169
+Summary 2,36,Overall residential loans to individuals £ millions,2014-Q3,1256161.466
+Summary 2,36,Overall residential loans to individuals £ millions,2014-Q4,1260123.294
+Summary 2,36,Overall residential loans to individuals £ millions,2015-Q1,1261592.528
+Summary 2,36,Overall residential loans to individuals £ millions,2015-Q2,1271957.41
+Summary 2,36,Overall residential loans to individuals £ millions,2015-Q3,1281952.557
+Summary 2,36,Overall residential loans to individuals £ millions,2015-Q4,1291408.823
+Summary 2,36,Overall residential loans to individuals £ millions,2016-Q1,1304746.968
+Summary 2,36,Overall residential loans to individuals £ millions,2016-Q2,1316335.304
+Summary 2,36,Overall residential loans to individuals £ millions,2016-Q3,1330802.397
+Summary 2,36,Overall residential loans to individuals £ millions,2016-Q4,1337867.863
+Summary 2,36,Overall residential loans to individuals £ millions,2017-Q1,1352773.133
+Summary 2,36,Overall residential loans to individuals £ millions,2017-Q2,1348201.892
+Summary 2,36,Overall residential loans to individuals £ millions,2017-Q3,1368207.101
+Summary 2,36,Overall residential loans to individuals £ millions,2017-Q4,1379177.814
+Summary 2,36,Overall residential loans to individuals £ millions,2018-Q1,1403345.981
+Summary 2,36,Overall residential loans to individuals £ millions,2018-Q2,1407436.617
+Summary 2,36,Overall residential loans to individuals £ millions,2018-Q3,1420209.567
+Summary 2,36,Overall residential loans to individuals £ millions,2018-Q4,1443817.872
+Summary 2,36,Overall residential loans to individuals £ millions,2019-Q1,1451829.184
+Summary 2,36,Overall residential loans to individuals £ millions,2019-Q2,1465597.798
+Summary 2,36,Overall residential loans to individuals £ millions,2019-Q3,1484893.204
+Summary 2,36,Overall residential loans to individuals £ millions,2019-Q4,1496908.514
+Summary 2,36,Overall residential loans to individuals £ millions,2020-Q1,1507722.891
+Summary 2,36,Overall residential loans to individuals £ millions,2020-Q2,1514824.144
+Summary 2,36,Overall residential loans to individuals £ millions,2020-Q3,1526030.843
+Summary 2,36,Overall residential loans to individuals £ millions,2020-Q4,1541448.967
+Summary 2,36,Overall residential loans to individuals £ millions,2021-Q1,1561572.821
+Summary 2,36,Overall residential loans to individuals £ millions,2021-Q2,1587636.565
+Summary 2,36,Overall residential loans to individuals £ millions,2021-Q3,1601895.206
+Summary 2,36,Overall residential loans to individuals £ millions,2021-Q4,1613466.601
+Summary 2,36,Overall residential loans to individuals £ millions,2022-Q1,1630821.83
+Summary 2,36,Overall residential loans to individuals £ millions,2022-Q2,1648808.331
+Summary 2,36,Overall residential loans to individuals £ millions,2022-Q3,1666487.54
+Summary 2,36,Overall residential loans to individuals £ millions,2022-Q4,1675297.419
+Summary 2,36,Overall residential loans to individuals £ millions,2023-Q1,1675959.06
+Summary 2,36,Overall residential loans to individuals £ millions,2023-Q2,1673074.295
+Summary 2,36,Overall residential loans to individuals £ millions,2023-Q3,1673172.217
+Summary 2,36,Overall residential loans to individuals £ millions,2023-Q4,1671798.629
+Summary 2,36,Overall residential loans to individuals £ millions,2024-Q1,1669970.08
+Summary 2,36,Overall residential loans to individuals £ millions,2024-Q2,1676305.034
+Summary 2,36,Overall residential loans to individuals £ millions,2024-Q3,1674741.461
+Summary 2,36,Overall residential loans to individuals £ millions,2024-Q4,1683406.844
+Summary 2,36,Overall residential loans to individuals £ millions,2025-Q1,1702420.982
+Summary 2,36,Overall residential loans to individuals £ millions,2025-Q2,1707083.464
+Summary 2,36,Overall residential loans to individuals £ millions,2025-Q3,1721260.362
+Summary 2,36,Overall residential loans to individuals £ millions,2025-Q4,1734434.628
