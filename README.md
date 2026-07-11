@@ -1,47 +1,146 @@
 # UK Mortgage Risk Research
 
-Project for UK mortgage arrears, possessions, lending, and forecasting research.
+An empirical analysis of UK mortgage arrears and possession activity using official quarterly data from 2011 Q1 to 2024 Q4.
 
+## Project overview
 
-# UK Mortgage Risk Research
+This project examines mortgage stress as a staged process:
 
-A data science research project analysing UK mortgage market stress, arrears, possessions, lending dynamics, and forecasting trends using Python and R.
+**mortgage-market conditions → serious arrears → possession activity**
 
-## Project Overview
-This project investigates patterns in UK mortgage risk using cleaned macro-financial and housing-related datasets. The work focuses on understanding how arrears, possessions, lending activity, and related indicators behave over time, with the aim of producing interpretable analytical outputs and forecasting-oriented insights.
+The final analytical dataset contains 56 quarterly observations and 23 variables. The analysis is conducted in Python and combines descriptive statistics, correlation analysis, visualisation, and lagged regression models with Newey–West heteroskedasticity and autocorrelation consistent standard errors.
 
-## Objectives
-- Analyse mortgage arrears and possessions trends in the UK
-- Explore relationships between lending, interest-rate conditions, and housing stress indicators
-- Build a structured research workflow using Python and R
-- Produce clear visual outputs and a research paper suitable for portfolio presentation
+The results are interpreted as associations rather than causal effects.
 
-## Repository Structure
-- `data_raw/` - original source data
-- `data_clean/` - cleaned and analysis-ready datasets
-- `outputs/` - charts, tables, and exported results
-- `paper/` - written research output
-- `python/` - Python notebooks and analysis code
-- `r/` - R scripts and forecasting work
-- `requirements.txt` - Python dependencies
+## Research questions
 
-## Tools Used
-- Python
-- R
-- pandas
-- matplotlib
-- Jupyter Notebook
+1. How did UK mortgage arrears and possession activity change between 2011 and 2024?
+2. Which mortgage-market conditions are associated with later serious arrears?
+3. Are serious arrears associated with subsequent possession activity?
 
-## Key Analytical Areas
-- Mortgage arrears
-- Possessions
-- Lending activity
-- Trend analysis
-- Forecasting
-- Economic and housing risk interpretation
+## Data sources
 
-## Why This Project Matters
-Mortgage stress is a major indicator of financial vulnerability in households and the wider economy. This project shows how data science can be used to organise, analyse, and interpret mortgage-risk patterns in a policy-relevant and decision-useful way.
+The repository uses official data from:
 
-## Status
-Completed portfolio project with code, outputs, and research documentation.
+- Bank of England Mortgage Lenders and Administrators Statistics
+- Financial Conduct Authority mortgage product sales data
+- Office for National Statistics UK House Price Index
+
+Original source files and the source manifest are stored in `data_raw/official_sources/`.
+
+## Main variables
+
+The analysis includes:
+
+- serious arrears rate
+- total arrears rate
+- new possessions
+- stock of possessions
+- average mortgage interest rate
+- fixed-rate mortgage share
+- high loan-to-value lending
+- impaired credit-history lending
+- gross mortgage advances
+- new mortgage commitments
+- UK house-price growth
+
+## Methods
+
+The analytical workflow includes:
+
+- data cleaning and quarterly alignment
+- descriptive statistics
+- Pearson correlation analysis
+- trend visualisation
+- one-quarter-lagged explanatory variables
+- ordinary least squares regression
+- Newey–West HAC standard errors
+- log transformation of new possessions in the second model
+
+### Model 1
+
+The first model examines associations between lagged mortgage-market conditions and the serious arrears rate.
+
+### Model 2
+
+The second model examines whether lagged serious arrears and other market indicators are associated with later new possessions.
+
+## Headline findings
+
+Across the 2011 Q1–2024 Q4 sample:
+
+- serious arrears averaged approximately 1.03%
+- total arrears averaged approximately 1.43%
+- new possessions averaged approximately 3,452 per quarter
+- higher lagged mortgage interest rates were positively associated with serious arrears
+- a higher fixed-rate share and stronger gross lending activity were negatively associated with serious arrears
+- lagged serious arrears were strongly positively associated with later possessions
+- high loan-to-value lending was positively associated with possessions in the second model
+
+These results should be interpreted cautiously because the dataset is an aggregate time series and several variables share long-run trends.
+
+## Repository structure
+
+```text
+UK-mortgage-risk-research/
+├── data_raw/
+│   └── official_sources/
+├── data_clean/
+├── outputs/
+│   ├── figures/
+│   └── tables/
+├── paper/
+├── python/
+├── .gitignore
+├── LICENSE
+├── README.md
+└── requirements.txt
+```
+
+## Main files
+
+- `data_clean/uk_mortgage_risk_final_research_dataset.csv` — final analysis dataset
+- `python/UK_mortgage.ipynb` — Python data preparation and statistical analysis
+- `outputs/figures/` — exported visualisations
+- `outputs/tables/` — descriptive, correlation, and regression outputs
+- `paper/UK_Mortgage_Risk_Research_Paper.pdf` — research paper
+- `paper/UK_Mortgage_Risk_Research_Paper.docx` — editable paper
+
+## Running the analysis
+
+Clone the repository and install the Python dependencies:
+
+```bash
+git clone https://github.com/Linpaws7/UK-mortgage-risk-research.git
+cd UK-mortgage-risk-research
+pip install -r requirements.txt
+```
+
+Open the notebook from the repository root:
+
+```bash
+jupyter notebook python/UK_mortgage.ipynb
+```
+
+The notebook should use repository-relative file paths so it can run on another computer without editing personal directory paths.
+
+## Limitations
+
+- The dataset contains only 56 quarterly observations.
+- The analysis uses aggregate UK-level data rather than household-level or lender-level records.
+- The regressions are associational and do not establish causality.
+- Common trends may influence some estimated relationships.
+- Mortgage possessions were affected by lender forbearance, court disruption, and policy intervention during the COVID-19 period.
+- Results should therefore be treated as exploratory evidence.
+
+## Paper
+
+The paper presents the full research design, results, interpretation, and limitations:
+
+[Read the research paper](paper/UK_Mortgage_Risk_Research_Paper.pdf)
+
+## Licence
+
+The repository code is released under the MIT Licence.
+
+The original datasets remain subject to the terms and licences of the Bank of England, Financial Conduct Authority, and Office for National Statistics.
