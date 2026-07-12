@@ -149,7 +149,7 @@ Before using the project on another computer, confirm that the notebook uses rep
 
 The paper presents the full research design, results, interpretation, and limitations:
 
-Read the research paper - paper/UK_Mortgage_Risk_Research_Paper.docx
+Read the research paper - paper/UK_Mortgage_Risk_Research.docx
 
 ## Licence
 
