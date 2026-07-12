@@ -93,6 +93,7 @@ UK-mortgage-risk-research/
 ├── outputs/
 │   ├── figures/
 │   └── tables/
+|__r/outputs
 ├── paper/
 ├── python/
 ├── .gitignore
@@ -100,6 +101,11 @@ UK-mortgage-risk-research/
 ├── README.md
 └── requirements.txt
 ```
+# Archived forecasting outputs
+
+These files are retained as exploratory outputs from an earlier ARIMA analysis.
+
+The original R script is unavailable, so these outputs are not treated as reproducible findings and are not used in the current research paper.
 
 ## Main files
 
@@ -108,6 +114,7 @@ UK-mortgage-risk-research/
 - `outputs/figures/` — exported visualisations
 - `outputs/tables/` — descriptive, correlation, and regression outputs
 - `paper/UK_Mortgage_Risk_Research_Paper.docx` — research paper
+- r/outputs - ARIMA forecasting
 
 ## Running the analysis
 
